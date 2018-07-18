@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="assets/theme/assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="assets/theme/assets/vendor/fancybox/jquery.fancybox.css">
   <link rel="stylesheet" href="assets/theme/assets/vendor/cubeportfolio/css/cubeportfolio.min.css">
-  <link rel="stylesheet" href="assets/theme/assets/vendor/typedjs/typed.css">
   <link rel="stylesheet" href="assets/theme/assets/vendor/slick-carousel/slick/slick.css">
 
   <!-- CSS Front Template -->

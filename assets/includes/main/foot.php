@@ -52,7 +52,7 @@
   </div>
 </div>
 
-<div class="clearfix u-space-2">
+<div class="clearfix u-space-2 credentials-foot">
   <div class="row">
     <div class="col-sm-6 col-lg-3 u-ver-divider u-ver-divider--none-lg">
       <div class="text-center py-5">
@@ -98,42 +98,68 @@
 
 
 <!-- ========== FOOTER ========== -->
-<footer class="position-relative bg-primary text-center">
-  <div class="container">
-    <!-- Copyright -->
-    <div class="u-space-1">
-      <p class="small u-text-light mb-0">&copy; Complete Credit Repair Services 2018</p>
+<footer class="position-relative u-gradient-half-primary-v5">
+  <div class="container u-space-4-top u-space-2-bottom">
+    <!-- Title -->
+    <div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
+      <h2 class="text-white">Ready to <strong class="font-weight-bold">get started?</strong></h2>
+      <p class="u-text-light mb-0">Click on subscribe above or go to the contact page.</p>
     </div>
-    <!-- End Copyright -->
+    <!-- End Title -->
 
-    <!-- Go To Top -->
-    <div class="text-center mx-auto">
-      <a class="js-go-to" href="javascript;;"
-         data-type="absolute"
-         data-position='{
-           "bottom": 56
-         }'
-         data-compensation="#header"
-         data-show-effect="slideInUp"
-         data-hide-effect="slideOutDown">
+    <hr class="opacity-0_2 my-7">
 
-        <div class="u-go-to-wave">
-          <!-- SVG Wave Shape -->
-          <figure>
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-              viewBox="0 0 208 44" style="enable-background:new 0 0 208 44;" xml:space="preserve">
-              <path class="u-fill-primary" d="M0,43c0,0,22.9,2.2,54-18.7S95.1,1.5,95.1,1.5s11.2-3.5,20.1,0.1s10.4,3.7,19.2,9.3c7.7,4.8,15,10.1,22.8,14.9
-                c10.1,6.2,21.5,11.7,33,14.8C191.6,41,208,44,208,43c0,0,0,1,0,1H0V43z"/>
-            </svg>
-          </figure>
-          <!-- End SVG Wave Shape -->
+    <div class="row align-items-lg-center">
+      <div class="col-lg-3 mb-4 mb-lg-0">
+        <!-- Copyright -->
+        <p class="small u-text-light mb-0">&copy; Complete Credit Repair Services 2018</p>
+        <!-- End Copyright -->
+      </div>
 
-          <span class="fa fa-angle-double-up text-white u-go-to-wave__icon"></span>
-        </div>
-      </a>
+      <div class="col-md-8 col-lg-6 mb-4 mb-md-0">
+        <!-- List -->
+        <ul class="list-inline text-lg-center u-list u-list--white">
+          <li class="list-inline-item u-list__item pl-0">
+            <a class="u-list__link" href="../pages/about-agency.html">About</a>
+          </li>
+          <li class="list-inline-item u-list__item">
+            <a class="u-list__link" href="../pages/services-agency.html">Services</a>
+          </li>
+          <li class="list-inline-item u-list__item">
+            <a class="u-list__link" href="../pages/careers-listing.html">Careers</a>
+          </li>
+          <li class="list-inline-item u-list__item">
+            <a class="u-list__link" href="../blog/classic-right-sidebar.html">Blog</a>
+          </li>
+        </ul>
+        <!-- End List -->
+      </div>
+
+      <div class="col-md-4 col-lg-3">
+        <!-- Social Networks -->
+        <ul class="list-inline text-md-right mb-0">
+          <li class="list-inline-item">
+            <a class="u-icon u-icon-light--air rounded" href="#">
+              <span class="fab fa-facebook-f u-icon__inner"></span>
+            </a>
+          </li>
+        </ul>
+        <!-- End Social Networks -->
+      </div>
     </div>
+
+    <!-- SVG Background -->
+    <figure class="position-absolute-top-0">
+      <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="100%" height="140px" viewBox="0 0 1920 140" style="margin-top: -2px; enable-background:new 0 0 1920 140;" xml:space="preserve">
+        <path class="u-fill-primary" opacity="0.3" d="M1607,81.8c0,0-274.6,48.2-560.1,19.9c-494.8-49.2-725.1,2.7-938.5,6.6C-203,114-339.2,85.6-339.2,85.6V9.4l1946.2,0V81.8z"/>
+        <path class="u-fill-primary" opacity="0.3" d="M2033.1,80.8c0,0-274.6,48.2-560.1,19.9c-494.8-49.2-725.1,2.7-938.5,6.6C223.1,113,86.9,84.6,86.9,84.6V8.5h1946.2V80.8z"/>
+        <path class="u-fill-white" opacity="0" d="M1526.9,5.6c0,0-309,96.5-698.5,96.5C406.8,102.1,201.4,7,201.4,7V1.8l1332,0L1526.9,5.6z"/>
+        <path class="u-fill-white" d="M2026.7,55.1c0,0-358.4,63.9-770,39c-523.7-31.8-712.6-8.6-938.5,6.6C-21.5,123.7-347.7,49-347.7,49l-8.5-51.3l2380.8,4.1L2026.7,55.1z"/>
+      </svg>
+    </figure>
+    <!-- End SVG Background Section -->
   </div>
-  <!-- End Go To Top -->
 </footer>
 <!-- ========== END FOOTER ========== -->
 
@@ -159,7 +185,7 @@
   <script src="assets/theme/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="assets/theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-  <script src="assets/theme/assets/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+  <script src="assets/theme/assets/vendor/custombox/dist/custombox.min.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>
@@ -168,12 +194,8 @@
   <script src="assets/theme/assets/js/components/hs.validation.js"></script>
   <script src="assets/theme/assets/js/helpers/hs.focus-state.js"></script>
   <script src="assets/theme/assets/js/components/hs.fancybox.js"></script>
-  <script src="assets/theme/assets/js/components/hs.cubeportfolio.js"></script>
-  <script src="assets/theme/assets/vendor/custombox/dist/custombox.min.js"></script>
   <script src="assets/theme/assets/js/components/hs.go-to.js"></script>
   <script src="assets/theme/assets/vendor/typed.js/lib/typed.min.js"></script>
-  <script src="assets/theme/assets/vendor/slick-carousel/slick/slick.js"></script>
-  <script src="assets/theme/assets/js/components/hs.slick-carousel.js"></script>
   <script>
   $(document).on('ready', function () {
     // initialization of text animation (typing)
@@ -219,6 +241,17 @@
         });
     })
 </script>
+<script>
+    $(document).ready(function() {
+        var typed = new Typed(".u-text-animation.u-text-animation--typing.contact", {
+            strings: ["and we will get back to you quick.", "and we will show you the ways of credit repair.", "and we will tend to your every need."],
+            typeSpeed: 60,
+            loop: true,
+            backSpeed: 25,
+            backDelay: 1500
+        });
+    })
+</script>
   <!-- JS Plugins Init. -->
   <script>
     $(window).on('load', function () {
@@ -253,7 +286,6 @@
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
     // initialization of slick carousel
-    $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
     });
   </script>
 </body>

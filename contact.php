@@ -3,9 +3,8 @@
 
   <!-- ========== MAIN ========== -->
   <main id="content" role="main">
-   <?php include('assets/includes/home/home-hero.php'); ?>
-
-    <hr>
+   <?php include('assets/includes/contact/contact-hero.php'); ?>
+   <?php include('assets/includes/contact/contact-block.php'); ?>
 
   </main>
   <!-- ========== END MAIN ========== -->
