@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Corporate Start-Up | Front - Responsive Website Template</title>
+  <title>Credit Repair | Credit Repair Services</title>
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-
+  <meta name="description" content="credit cards, credit repair, credit repair services, credit score">
   <!-- Favicon -->
   <link rel="shortcut icon" href="assets/img/favicon.ico">
 
