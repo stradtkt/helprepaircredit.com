@@ -52,7 +52,7 @@
   </div>
 </div>
 
-<div class="clearfix u-space-2 credentials-foot">
+<div class="clearfix credentials-foot">
   <div class="row">
     <div class="col-sm-6 col-lg-3 u-ver-divider u-ver-divider--none-lg">
       <div class="text-center py-5">
@@ -245,6 +245,28 @@
     $(document).ready(function() {
         var typed = new Typed(".u-text-animation.u-text-animation--typing.contact", {
             strings: ["and we will get back to you quick.", "and we will show you the ways of credit repair.", "and we will tend to your every need."],
+            typeSpeed: 60,
+            loop: true,
+            backSpeed: 25,
+            backDelay: 1500
+        });
+    })
+</script>
+<script>
+    $(document).ready(function() {
+        var typed = new Typed(".u-text-animation.u-text-animation--typing.about", {
+            strings: ["us, and what we offer.", "a growing business striving to be the best.", "our goals and how we plan to help you."],
+            typeSpeed: 60,
+            loop: true,
+            backSpeed: 25,
+            backDelay: 1500
+        });
+    })
+</script>
+<script>
+    $(document).ready(function() {
+        var typed = new Typed(".u-text-animation.u-text-animation--typing.blog", {
+            strings: ["you can learn ways to build your credit.", "find the best ways to save your money.", "learn from other peoples stories."],
             typeSpeed: 60,
             loop: true,
             backSpeed: 25,
