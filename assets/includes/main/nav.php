@@ -1,5 +1,6 @@
 <div class="collapse fixed-top" id="navbarToggleExternalContent">
       <ul class="nav">
+          <li class="nav-item"><img src="assets/img/logo_new_2.png" alt="Logo Brand"></li>
           <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
           <li class="nav-item"><a href="plans.php" class="nav-link">Plans</a></li>

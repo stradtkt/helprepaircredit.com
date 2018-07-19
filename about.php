@@ -4,8 +4,7 @@
   <!-- ========== MAIN ========== -->
   <main id="content" role="main">
    <?php include('assets/includes/about/about-hero.php'); ?>
-
-    <hr>
+   <?php include('assets/includes/about/about-block.php'); ?>
 
   </main>
   <!-- ========== END MAIN ========== -->

@@ -7,19 +7,18 @@
         <p>Choose the most suitable service for your needs with reasonable price.</p>
       </div>
     </div>
-
     <div class="col-lg-7">
       <div id="pricingMonthly" class="row align-items-center mb-3" data-target-group="idPricing">
         <div class="col-sm-6 mb-7 mb-sm-0">
           <div class="u-pricing-v1">
             <header class="u-pricing-v1__header">
-              <h3 class="h4 mb-1">Individual Plan</h3>
+              <h3 class="h4 mb-1">Basic</h3>
               <span class="d-block">
                 <span class="align-top">$</span>
-                <span class="display-4 font-weight-bold">22</span>
-                <span>/month</span>
+                <span class="display-4 font-weight-bold">80</span>
+                <span>/month</span><br>
+                <span>Zero Enrollment</span>
               </span>
-
               <figure class="w-100 position-absolute-bottom-0">
                 <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                     viewBox="20 -20 300 100" style="margin-bottom: -8px;" xml:space="preserve">
@@ -34,50 +33,58 @@
                 </svg>
               </figure>
             </header>
-
             <div class="u-pricing-v1__content">
               <ul class="list-unstyled mb-4">
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  Community support
+                  Unlimited disputes at all three major credit bureaus
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  400+ pages
+                  Sending maximum limit of dispute letters allowed by law to each of the credit bureaus
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  100+ header variations
+                  24/7 access to credit repair progression
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  20+ home page options
+                  Basic credit education that is a 30 minute consultation
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Personal online access to customized dashboard
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Secure payment system including auto pay
                 </li>
               </ul>
-
-              <button type="button" class="btn btn-sm btn-block u-btn-primary--air transition-3d-hover">Get Started</button>
             </div>
           </div>
         </div>
-
         <div class="col-sm-6">
           <div class="u-pricing-v1">
             <header class="u-pricing-v1__header">
-              <h3 class="h4 mb-1">Enterprise Plan</h3>
+              <h3 class="h4 mb-1">Premium Plan</h3>
               <span class="d-block">
                 <span class="align-top">$</span>
                 <span class="display-4 font-weight-bold">99</span>
-                <span>/month</span>
+                <span>/month</span><br>
+                <span>$149 Enrollment Fee</span>
               </span>
-
               <figure class="w-100 position-absolute-bottom-0">
                 <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                     viewBox="20 -20 300 100" style="margin-bottom: -8px;" xml:space="preserve">
@@ -92,52 +99,73 @@
                 </svg>
               </figure>
             </header>
-
             <div class="u-pricing-v1__content">
               <ul class="list-unstyled mb-4">
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  24/7 support
+                  One time setup fee credited on your sixth month of service
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  400+ pages
+                  Unlimited disputes at all three credit bureaus
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  200+ header variations
+                  Sending maximum limit of dispute letters allowed by law to each credit bureaus
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  40+ home page options
+                  24/7 access to credit repair progression
                 </li>
                 <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
                   <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
                     <span class="fa fa-check u-icon__inner"></span>
                   </span>
-                  E-commerce
+                  Basic credit education with 30 minute consultation per month
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Personal online access to customized dashboard
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Secure payment system including auto pay
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Includes one on one analysis of credit for an hour
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Strategies for faster credit score improvement
+                </li>
+                <li class="d-flex align-items-center u-pricing-v1__list-item py-2">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle mr-3">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                  Keys to successful budgeting
                 </li>
               </ul>
-
-              <button type="button" class="btn btn-sm btn-block u-btn-primary--air transition-3d-hover">Get Started</button>
             </div>
           </div>
         </div>
       </div>
-
-      
-
-      <p class="small text-muted text-center">
-        * <a class="u-link-muted" href="../pages/page-terms.html">Terms</a> are subject to change.
-      </p>
     </div>
   </div>
 </div>

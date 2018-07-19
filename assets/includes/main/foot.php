@@ -44,10 +44,6 @@
         </form>
         </div>          
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
     </div>
   </div>
 </div>
@@ -112,7 +108,7 @@
     <div class="row align-items-lg-center">
       <div class="col-lg-3 mb-4 mb-lg-0">
         <!-- Copyright -->
-        <p class="small u-text-light mb-0">&copy; Complete Credit Repair Services 2018</p>
+        <p class="small u-text-light mb-0"><img class="footer-logo" src="assets/img/logo_new_2.png" alt=""> Complete Credit Repair Services &copy;</p>
         <!-- End Copyright -->
       </div>
 
