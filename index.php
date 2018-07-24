@@ -4,6 +4,7 @@
   <!-- ========== MAIN ========== -->
   <main id="content" role="main">
    <?php include('assets/includes/home/home-hero.php'); ?>
+   <?php include('assets/includes/home/home-block.php'); ?>
 
     <hr>
 

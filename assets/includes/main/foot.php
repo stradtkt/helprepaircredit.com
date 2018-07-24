@@ -115,18 +115,12 @@
       <div class="col-md-8 col-lg-6 mb-4 mb-md-0">
         <!-- List -->
         <ul class="list-inline text-lg-center u-list u-list--white">
-          <li class="list-inline-item u-list__item pl-0">
-            <a class="u-list__link" href="../pages/about-agency.html">About</a>
-          </li>
-          <li class="list-inline-item u-list__item">
-            <a class="u-list__link" href="../pages/services-agency.html">Services</a>
-          </li>
-          <li class="list-inline-item u-list__item">
-            <a class="u-list__link" href="../pages/careers-listing.html">Careers</a>
-          </li>
-          <li class="list-inline-item u-list__item">
-            <a class="u-list__link" href="../blog/classic-right-sidebar.html">Blog</a>
-          </li>
+          <li class="list-inline-item u-list__item pl-0"><a class="u-list__link" href="index.php">Home</a></li>
+          <li class="list-inline-item u-list__item"><a class="u-list__link" href="about.php">About</a></li>
+          <li class="list-inline-item u-list__item"><a class="u-list__link" href="plans.php">Plans</a></li>
+          <li class="list-inline-item u-list__item"><a class="u-list__link" href="services.php">Services</a></li>
+          <li class="list-inline-item u-list__item"><a class="u-list__link" href="testimonials.php">Testimonials</a></li>
+          <li class="list-inline-item u-list__item"><a class="u-list__link" href="contact.php">Contact</a></li>
         </ul>
         <!-- End List -->
       </div>

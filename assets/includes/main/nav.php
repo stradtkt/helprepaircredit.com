@@ -6,7 +6,7 @@
           <li class="nav-item"><a href="plans.php" class="nav-link">Plans</a></li>
           <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
           <li class="nav-item"><a href="testimonials.php" class="nav-link">Testimonials</a></li>
-          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+          <!--<li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>-->
           <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
       </ul>
     </div>

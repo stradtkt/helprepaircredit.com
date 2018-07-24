@@ -14,7 +14,7 @@
             </p>
             </div>
             </div>
-        <img src="assets/theme/assets/svg/flat-icons/app-development-flat-concept-illustration.svg" alt="SVG Illustration">
+        <img class="home-hero" src="assets/theme/assets/svg/flat-icons/app-development-flat-concept-illustration.svg" alt="SVG Illustration">
       </div>
     </div>
   </div>

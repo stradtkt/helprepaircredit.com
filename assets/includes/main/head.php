@@ -25,6 +25,8 @@
   <link rel="stylesheet" href="assets/theme/assets/vendor/fancybox/jquery.fancybox.css">
   <link rel="stylesheet" href="assets/theme/assets/vendor/cubeportfolio/css/cubeportfolio.min.css">
   <link rel="stylesheet" href="assets/theme/assets/vendor/slick-carousel/slick/slick.css">
+  <link rel="stylesheet" href="assets/css/fa/css/fontawesome.min.css">
+  <link rel="stylesheet" href="assets/css/fa/css/all.min.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/theme/assets/css/front.css">

@@ -1,4 +1,8 @@
-<div class="w-40 mx-auto mt-5">
+
+<div class="container mb-5 mt-5">
+    <div class="row">
+        <div class="col-md-6 offset-3">
+        <div class="mx-auto mt-5">
   <form class="js-validate">
       <h1 class="text-center text-primary">Contact Us</h1>
   <div class="js-form-message mb-4">
@@ -60,4 +64,7 @@
   </div>
         <button type="submit" class="btn btn-block btn-primary u-btn-primary transition-3d-hover">Send</button>
   </form>
+</div>
+        </div>
+    </div>
 </div>

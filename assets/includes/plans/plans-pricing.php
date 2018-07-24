@@ -5,6 +5,13 @@
         <span class="u-label u-label--sm u-label--success mb-2">Pricing plans</span>
         <h2>No additional costs.<br>Pay for what you use.</h2>
         <p>Choose the most suitable service for your needs with reasonable price.</p>
+        <ul class="mt-9 mr-2">
+            <h5>Average score increase in 35 days</h5>
+            <li>10-15 points or more 93%</li>
+            <li>20-30 points or more 82%</li>
+            <li>50-60 points or more 40%</li>
+            <li>100 points or more 25%</li>
+        </ul>
       </div>
     </div>
     <div class="col-lg-7">

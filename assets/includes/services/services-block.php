@@ -17,4 +17,36 @@
         </div>
     </div>
 </div>
+<div class="row justify-content-center mt-5 mb-5">
+  <div class="col-sm-4 col-lg-3 mb-7 mb-sm-0">
+    <div class="text-center">
+      <div class="position-relative">
+        <div class="u-indicator-dots">
+          <h4 class="display-4 text-primary mb-0">25</h4>
+        </div>
+      </div>
+      <p class="mb-0">Top rated<br>agency companies</p>
+    </div>
+  </div>
+
+  <div class="col-sm-4 col-lg-3 mb-7 mb-sm-0">
+    <div class="text-center">
+      <div class="position-relative">
+        <div class="u-indicator-dots">
+          <h4 class="display-4 text-primary mb-0">$19</h4>
+        </div>
+      </div>
+      <p class="mb-0">Historical earnings<br>per click</p>
+    </div>
+  </div>
+
+  <div class="col-sm-4 col-lg-3 mb-7 mb-sm-0">
+    <div class="text-center">
+      <div class="position-relative">
+        <h4 class="display-4 text-primary mb-0">50%</h4>
+      </div>
+      <p class="mb-0">Average<br>registration rate</p>
+    </div>
+  </div>
+</div>
 </div>
