@@ -1,8 +1,6 @@
-@media (max-width: 376px) {
+@media (max-width: 1025px) {
     .position-abs > h1 {
         font-size: 34px;
-        position: relative;
-        right: 5%;
     }
     #content {
         width: 100%;
@@ -20,6 +18,118 @@
     }
     .position-abs {
         z-index: 10000;
+        right: 0.5px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 120%;
+        margin: 0 auto;
+        position: relative;
+        right: 27%;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+   
+    }
+    ul.list-inline {
+        width: 500px;
+        position: relative;
+        left: 110px;
+    }
+    button.navbar-toggler {
+        position: relative;
+        right: 15%;
+    }
+    ul.nav {
+        position: relative;
+        right: 15%;
+    }
+    p.small {
+        text-align: center;
+    }
+    /* End Footer */
+}
+
+
+
+@media (max-width: 769px) {
+    .position-abs > h1 {
+        font-size: 34px;
+    }
+    #content {
+        width: 100%;
+    }
+    .home-hero,
+    .blog-hero,
+    .about-hero,
+    .contact-hero,
+    .services-hero,
+    .test-hero,
+    .plan-hero-svg {
+        margin: 0 auto;
+        position: relative;
+        right: 60px;
+    }
+    .position-abs {
+        z-index: 10000;
+        right: 0.5px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 120%;
+        margin: 0 auto;
+        position: relative;
+        right: 27%;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+   
+    }
+    ul.list-inline {
+        width: 500px;
+        position: relative;
+        left: 110px;
+    }
+    button.navbar-toggler {
+        position: relative;
+        right: 15%;
+    }
+    ul.nav {
+        position: relative;
+        right: 15%;
+    }
+    p.small {
+        text-align: center;
+    }
+    /* End Footer */
+}
+
+
+@media (max-width: 426px) {
+    .position-abs > h1 {
+        font-size: 34px;
+    }
+    #content {
+        width: 100%;
+    }
+    .home-hero,
+    .blog-hero,
+    .about-hero,
+    .contact-hero,
+    .services-hero,
+    .test-hero,
+    .plan-hero-svg {
+        margin: 0 auto;
+        position: relative;
+        right: 60px;
+    }
+    .position-abs {
+        z-index: 10000;
+        right: 0.5px;
     }
 
     /* Contact Page */
@@ -35,10 +145,106 @@
         display: block !important;
         text-align: center;
     }
+    p.small {
+        text-align: center;
+    }
     /* End Footer */
 }
 
 
+@media (max-width: 376px) {
+    .position-abs > h1 {
+        font-size: 34px;
+    }
+    #content {
+        width: 100%;
+    }
+    .home-hero,
+    .blog-hero,
+    .about-hero,
+    .contact-hero,
+    .services-hero,
+    .test-hero,
+    .plan-hero-svg {
+        margin: 0 auto;
+        position: relative;
+        right: 60px;
+    }
+    .position-abs {
+        z-index: 10000;
+        right: 0.5px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 120%;
+        margin: 0 auto;
+        position: relative;
+        right: 27%;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+        display: block !important;
+        text-align: center;
+    }
+    p.small {
+        text-align: center;
+    }
+    /* End Footer */
+}
+
+@media (max-width: 362px) {
+    .position-abs > h1 {
+        font-size: 34px;
+    }
+    #content {
+        width: 100%;
+    }
+    .home-hero,
+    .blog-hero,
+    .about-hero,
+    .contact-hero,
+    .services-hero,
+    .test-hero,
+    .plan-hero-svg {
+        margin: 0 auto;
+        position: relative;
+        right: 60px;
+    }
+    .position-abs {
+        z-index: 10000;
+        right: 0.5px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 120%;
+        margin: 0 auto;
+        position: relative;
+        right: 27%;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+        display: block;
+        text-align: center;
+        position: relative;
+        right: 35%;
+    }
+    button.navbar-toggler {
+        position: relative;
+        right: 21.5%;
+    }
+    ul.nav {
+        position: relative;
+        right: 21.5%;
+    }
+    p.small {
+        text-align: center;
+    }
+    /* End Footer */
+}
 
 
 @media (max-width: 321px) {
@@ -62,7 +268,14 @@
     .position-abs {
         z-index: 10000;
     }
-
+    button.navbar-toggler {
+        position: relative;
+        right: 24%;
+    }
+    ul.nav {
+        position: relative;
+        right: 24%;
+    }
     /* Contact Page */
     form.js-validate {
         width: 120%;
@@ -75,6 +288,8 @@
     ul.list-inline li.list-inline-item {
         display: block !important;
         text-align: center;
+        position: relative;
+        right: 40%;
     }
     /* End Footer */
 }

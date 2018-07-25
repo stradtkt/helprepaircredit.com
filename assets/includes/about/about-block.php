@@ -15,46 +15,4 @@
             </div>
         </div>
     </div>
-    <div class="row item-row">
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-alarm-clock"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-certificate"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-university"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-    </div>
-    <div class="row item-row">
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-money-check-alt"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-piggy-bank"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-balance-scale-left"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-    </div>
-    <div class="row item-row">
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-cut"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-building"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-        <div class="col-md-4 text-center">
-            <p><i class="far fa-home"></i></p>
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, sunt.</p>
-        </div>
-    </div>
 </div>

@@ -4,7 +4,7 @@
       <span class="font-weight-bold">Credit Repair Services</span> – the people that bring joy back into peoples life.
     </span>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+        <button type="button" class="btn subscribe" data-toggle="modal" data-target="#exampleModalLong">
         Subscribe
     </button>
     <!-- Modal -->
