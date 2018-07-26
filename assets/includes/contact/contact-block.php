@@ -36,12 +36,27 @@
                  data-success-class="u-has-success">
         </div>
       </div>
+        <div class="js-form-message mb-4">
+        <div class="js-focus-state input-group u-form">
+          <div class="input-group-prepend u-form__prepend">
+            <span class="input-group-text u-form__text">
+              <span class="fa fa-phone u-form__text-inner"></span>
+            </span>
+          </div>
+          <input type="number" class="form-control u-form__input" name="phone" required
+                 placeholder="Phone Number"
+                 aria-label="Phone Number"
+                 data-msg="Please enter a valid phone number"
+                 data-error-class="u-has-error"
+                 data-success-class="u-has-success">
+        </div>
+      </div>
       <!-- End Input -->
       <div class="js-form-message mb-4">
         <div class="js-focus-state input-group u-form">
           <div class="input-group-prepend u-form__prepend">
             <span class="input-group-text u-form__text">
-              <span class="fa fa-user u-form__text-inner"></span>
+              <span class="fa fa-comment-alt u-form__text-inner"></span>
             </span>
           </div>
           <input type="text" class="form-control u-form__input" name="subject" required

@@ -20,13 +20,11 @@
         </button>
       </div>
       <div class="modal-body text-white">
-
+          <p class="lead text-white">Send us your information and we will get back to you as soon as possible</p>
+          <small>Your information will be secure and will not be public to anyone</small>
         <form action="" method="POST">
             <div class="form-group">
-                <input type="text" name="first_name" class="form-control" placeholder="First Name">
-            </div>
-            <div class="form-group">
-                <input type="text" name="last_name" class="form-control" placeholder="Last Name">
+                <input type="text" name="name" class="form-control" placeholder="Name">
             </div>
             <div class="form-group">
                 <input type="number" name="phone" class="form-control" placeholder="Phone">
@@ -175,7 +173,6 @@
   <script src="assets/theme/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="assets/theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-  <script src="assets/theme/assets/vendor/custombox/dist/custombox.min.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>

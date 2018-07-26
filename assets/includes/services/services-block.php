@@ -3,7 +3,7 @@
         <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="services-block">
         <h1 class="text-center">Services</h1>
-            <ul>
+            <ul class="lead">
                 <h3 class="text-center">What Can CCRS do for you?</h3>
                 <li>We will be with you every step of the way.</li>
                 <li>We are a company with integrity, striving to give you the best experience.</li>
@@ -15,7 +15,9 @@
         </div>
     </div>
 </div>
-<hr>
+<div class="text-center">
+  <span class="u-divider u-divider--xs u-divider--text">-</span>
+</div>
 <div class="row justify-content-center mt-5 mb-5">
   <div class="col-sm-4 col-lg-3 mb-7 mb-sm-0">
     <div class="text-center">
@@ -51,7 +53,7 @@
 <hr>
 <div class="row">
     <div class="col-md-6 col-sm-6 col-lg-6 offset-3">
-        <ul class="mt-1 text-center">
+        <ul class="mt-1 text-center lead">
             <p><i class="far fa-chart-line"></i></p>
             <h5>Average score increase in 35 days</h5>
             <li>10-15 points or more 93%</li>
@@ -61,7 +63,9 @@
         </ul>
     </div>
 </div>
-<hr>
+<div class="text-center">
+  <span class="u-divider u-divider--xs u-divider--text">-</span>
+</div>
 <div class="row item-row top">
         <div class="col-md-4 text-center">
             <p><i class="far fa-alarm-clock"></i></p>
