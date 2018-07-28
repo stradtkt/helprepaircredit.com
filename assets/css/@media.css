@@ -292,4 +292,16 @@
         right: 40%;
     }
     /* End Footer */
+    .nav-pills .nav-link {
+        width: 100px;
+    }
+    .tab-pane .card .card-img-top {
+        width: 120px;
+        height: 120px;
+    }
+    .card {
+        width: 300px !important;
+        display: block;
+    }
+
 }

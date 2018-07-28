@@ -170,16 +170,13 @@
   <script src="assets/theme/assets/vendor/bootstrap/bootstrap.min.js"></script>
 
   <!-- JS Implementing Plugins -->
-  <script src="assets/theme/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="assets/theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+  <script src="assets/theme/assets/vendor/gmaps/gmaps.min.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>
-  <script src="assets/theme/assets/js/components/hs.header.js"></script>
-  <script src="assets/theme/assets/js/components/hs.unfold.js"></script>
   <script src="assets/theme/assets/js/components/hs.validation.js"></script>
-  <script src="assets/theme/assets/js/helpers/hs.focus-state.js"></script>
   <script src="assets/theme/assets/js/components/hs.fancybox.js"></script>
   <script src="assets/theme/assets/js/components/hs.go-to.js"></script>
   <script src="assets/theme/assets/vendor/typed.js/lib/typed.min.js"></script>
@@ -294,7 +291,6 @@
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
-    // initialization of slick carousel
     });
   </script>
 </body>
