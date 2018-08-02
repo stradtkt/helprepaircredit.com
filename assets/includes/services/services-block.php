@@ -2,17 +2,17 @@
 <div class="row test-tab-container">
   <div class="col-3">
     <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-      <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Goals</a>
-      <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Promises</a>
-      <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Perks</a>
-      <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Privacy Policy</a>
+      <a class="nav-link active text-center" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Goals</a>
+      <a class="nav-link text-center" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Promises</a>
+      <a class="nav-link text-center" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Perks</a>
+      <a class="nav-link text-center" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Privacy Policy</a>
     </div>
   </div>
   <div class="col-9">
     <div class="tab-content" id="v-pills-tabContent">
       <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
       <div class="row">
-    <div class="col-md-6 col-sm-6 col-lg-6 offset-3">
+    <div class="col-md-6 col-sm-6 col-lg-6 offset-3 goals">
         <ul class="mt-1 text-center lead">
             <p><i class="far fa-chart-line"></i></p>
             <h5>Average score increase in 35 days</h5>
@@ -26,9 +26,9 @@
       </div>
       <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
           <div class="row">
-              <div class="col-md-10 offset-1">
+              <div class="col-md-10 offset-1 promises">
               <h1 class="text-center">Services</h1>
-            <ul class="lead">
+            <ul>
                 <h3 class="text-center">What Can CCRS do for you?</h3>
                 <li>We will be with you every step of the way.</li>
                 <li>We are a company with integrity, striving to give you the best experience.</li>

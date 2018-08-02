@@ -1,4 +1,6 @@
-<div class="bg-primary text-white text-center">
+
+<section class="footer-container" data-type="background" data-speed="3">
+<div class=" text-white text-center">
   <div class="container u-space-1">
     <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
       <span class="font-weight-bold">Credit Repair Services</span> – the people that bring joy back into peoples life.
@@ -45,6 +47,7 @@
     </div>
   </div>
 </div>
+</section>
 
 <div class="clearfix credentials-foot">
   <div class="row">
@@ -173,6 +176,8 @@
   <script src="assets/theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
   <script src="assets/theme/assets/vendor/gmaps/gmaps.min.js"></script>
+  <script src="assets/js/remodal/dist/remodal.min.js"></script>
+  <script src="assets/js/my-remodal.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>
@@ -180,6 +185,30 @@
   <script src="assets/theme/assets/js/components/hs.fancybox.js"></script>
   <script src="assets/theme/assets/js/components/hs.go-to.js"></script>
   <script src="assets/theme/assets/vendor/typed.js/lib/typed.min.js"></script>
+  <script src="assets/js/parallax.js"></script>
+  <script>
+      var map;
+      function initMap() {
+          var myLatLng = {lat: 39.176787, lng: -84.292260};
+          var bygolly = {lat: 39.176498, lng:-84.286220}
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: myLatLng,
+          zoom: 10
+        });
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            title: 'Complete Credit Repair Services'
+        });
+        var marker1 = new google.maps.Marker({
+            position: bygolly,
+            map: map,
+            title: 'By Golly\'s'
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWi3mIfX7sENvBCYlniuf80Emkq3iZyEQ&callback=initMap"
+    async defer></script>
   <script>
   $(document).on('ready', function () {
     // initialization of text animation (typing)
@@ -260,15 +289,6 @@
 </script>
   <!-- JS Plugins Init. -->
   <script>
-    $(window).on('load', function () {
-      // initialization of HSMegaMenu component
-      $('.js-mega-menu').HSMegaMenu({
-        event: 'hover',
-        pageContainer: $('.container'),
-        breakpoint: 768,
-        hideTimeOut: 0
-      });
-    });
 
     $(document).on('ready', function () {
       // initialization of header

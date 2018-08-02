@@ -11,6 +11,7 @@
   <div class="col-9">
     <div class="tab-content" id="v-pills-tabContent">
       <div class="tab-pane fade show active text-center" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+      <h1 class="text-center">Testimonials</h1>
        <div class="row">
        <div class="col-6">
         <div class="card">
@@ -59,6 +60,7 @@
        </div>
         </div>
       <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+      <h1 class="text-center">Tips</h1>
       <div class="row">
           <div class="col-md-10 offset-1">
           <ul class="list-unstyled u-list u-list--white bg-primary">

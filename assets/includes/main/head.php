@@ -49,6 +49,8 @@ if(isset($_POST['submit'])){
   <link rel="stylesheet" href="assets/theme/assets/vendor/slick-carousel/slick/slick.css">
   <link rel="stylesheet" href="assets/css/fa/css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/css/fa/css/all.min.css">
+  <link rel="stylesheet" href="assets/js/remodal/dist/remodal.css">
+  <link rel="stylesheet" href="assets/js/remodal/dist/remodal-default-theme.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/theme/assets/css/front.css">

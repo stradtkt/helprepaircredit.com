@@ -1,7 +1,7 @@
 
 <div class="container mb-5 mt-5">
     <div class="row">
-        <div class="col-md-6 offset-3">
+        <div class="col-md-6">
         <div class="mx-auto mt-5">
   <form class="js-validate">
       <h1 class="text-center text-primary">Contact Us</h1>
@@ -80,6 +80,13 @@
         <button type="submit" class="btn btn-block btn-primary u-btn-primary transition-3d-hover">Send</button>
   </form>
 </div>
+
+        </div>
+        <div class="col-md-6 map-info">
+            <span><i class="far fa-phone"></i></span> <span>(513) 248-2600</span> <br>
+            <span><i class="far fa-home"></i></span> <span>513 Main Street Milford, Ohio</span> <br>
+            <span><i class="far fa-envelope"></i></span> <span><a href="mailto:completecreditrepairservices@gmail.com">Email Us</a></span>
+        <div id="map"></div>
         </div>
     </div>
 </div>

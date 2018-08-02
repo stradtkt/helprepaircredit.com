@@ -13,6 +13,7 @@
       <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
        <div class="row">
            <div class="col-10 offset-1">
+           <h1 class="text-center">Overview</h1>
                <div class="bg-primary text-white text-center tab-section">
                <p class="lead text-white">
                     CCRS has many years of experience in evaluating credit and guiding consumers to assert their legal rights. 
@@ -28,6 +29,7 @@
        </div>
       </div>
       <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+          <h1 class="text-center">Mission</h1>
     <div class="row">
         <div class="col-sm-10 col-md-10 col-lg-10 offset-1">
             <div class="bg-primary text-white text-center tab-section">
@@ -39,6 +41,7 @@
        </div>
         </div>
       <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+      <h1 class="text-center">Owners</h1>
           <div class="row">
               <div class="col-6">
               <div class="card">
@@ -65,14 +68,15 @@
       <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
       <div class="row">
         <div class="col-sm-10 col-md-10 col-lg-10 offset-1">
+            <h1 class="text-center">FAQ</h1>
         <div id="basicsAccordion">
             <div class="card mb-1">
                 <div class="card-header u-card-header" id="basicsHeadingOne">
                 <h5 class="mb-0">
-                    <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn p-3"
+                    <button class="btn btn-link btn-block d-flex justify-content-between collapsed u-card-btn p-3"
                             data-toggle="collapse"
                             data-target="#basicsCollapseOne"
-                            aria-expanded="true"
+                            aria-expanded="false"
                             aria-controls="basicsCollapseOne">
                             Is credit repair worth it? Why?
 
@@ -82,7 +86,7 @@
                     </button>
                 </h5>
                 </div>
-                <div id="basicsCollapseOne" class="collapse show"
+                <div id="basicsCollapseOne" class="collapse"
                     aria-labelledby="basicsHeadingOne"
                     data-parent="#basicsAccordion">
                 <div class="card-body u-card-body">
@@ -165,33 +169,108 @@
                 </div>
                 </div>
             </div>
-    <div class="card mb-1">
-                <div class="card-header u-card-header" id="basicsHeadingFour">
-                <h5 class="mb-0">
-                    <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
-                            data-toggle="collapse"
-                            data-target="#basicsCollapseFour"
-                            aria-expanded="false"
-                            aria-controls="basicsCollapseFour">
-                            Where can I fix my credit score?
-
-                    <span class="u-card-btn__arrow">
-                        <span class="fa fa-arrow-down small"></span>
-                    </span>
-                    </button>
-                </h5>
-                </div>
-                <div id="basicsCollapseFour" class="collapse"
-                    aria-labelledby="basicsHeadingFour"
-                    data-parent="#basicsAccordion">
-                <div class="card-body u-card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-                </div>
-
-
-            </div>
            </div>
+           <div id="basicsAccordion">
+  <div class="card mb-1">
+    <div class="card-header u-card-header" id="basicsHeadingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
+                data-toggle="collapse"
+                data-target="#basicsCollapseFive"
+                aria-expanded="false"
+                aria-controls="basicsCollapseFive">
+          Do you have any built-in caching?
+
+          <span class="u-card-btn__arrow">
+            <span class="fa fa-arrow-down small"></span>
+          </span>
+        </button>
+      </h5>
+    </div>
+    <div id="basicsCollapseFive" class="collapse"
+         aria-labelledby="basicsHeadingFive"
+         data-parent="#basicsAccordion">
+      <div class="card-body u-card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-1">
+    <div class="card-header u-card-header" id="basicsHeadingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
+                data-toggle="collapse"
+                data-target="#basicsCollapseSix"
+                aria-expanded="false"
+                aria-controls="basicsCollapseSix">
+          Can I add/upgrade my plan at any time?
+
+          <span class="u-card-btn__arrow">
+            <span class="fa fa-arrow-down small"></span>
+          </span>
+        </button>
+      </h5>
+    </div>
+    <div id="basicsCollapseSix" class="collapse"
+         aria-labelledby="basicsHeadingSix"
+         data-parent="#basicsAccordion">
+      <div class="card-body u-card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-1">
+    <div class="card-header u-card-header" id="basicsHeadingSeven">
+      <h5 class="mb-0">
+        <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
+                data-toggle="collapse"
+                data-target="#basicsCollapseSeven"
+                aria-expanded="false"
+                aria-controls="basicsCollapseSeven">
+          What access comes with my hosting plan?
+
+          <span class="u-card-btn__arrow">
+            <span class="fa fa-arrow-down small"></span>
+          </span>
+        </button>
+      </h5>
+    </div>
+    <div id="basicsCollapseSeven" class="collapse"
+         aria-labelledby="basicsHeadingSeven"
+         data-parent="#basicsAccordion">
+      <div class="card-body u-card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-1">
+    <div class="card-header u-card-header" id="basicsHeadingEight">
+      <h5 class="mb-0">
+        <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
+                data-toggle="collapse"
+                data-target="#basicsCollapseEight"
+                aria-expanded="false"
+                aria-controls="basicsCollapseEight">
+          How do I change my password?
+
+          <span class="u-card-btn__arrow">
+            <span class="fa fa-arrow-down small"></span>
+          </span>
+        </button>
+      </h5>
+    </div>
+    <div id="basicsCollapseEight" class="collapse"
+         aria-labelledby="basicsHeadingEight"
+         data-parent="#basicsAccordion">
+      <div class="card-body u-card-body">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+</div>
        </div>
       </div>
     </div>

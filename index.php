@@ -6,8 +6,6 @@
    <?php include('assets/includes/home/home-hero.php'); ?>
    <?php include('assets/includes/home/home-block.php'); ?>
 
-    <hr>
-
   </main>
   <!-- ========== END MAIN ========== -->
 

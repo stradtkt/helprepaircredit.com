@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
 
 
 .u-text-animation.u-text-animation--typing.home {
@@ -13,10 +14,10 @@ button.navbar-toggler {
 }
 .navbar {
     overflow-y: auto;
-    background: linear-gradient(120deg, #2A2A95, rgba(100,100,250,0.5));
-    background: -webkit-linear-gradient(120deg, #2A2A95, rgba(100,100,250,0.5));
-    background: -moz-linear-gradient(120deg, #2A2A95, rgba(100,100,250,0.5));
-    background: -o-linear-gradient(120deg, #2A2A95, rgba(100,100,250,0.5));
+    background: linear-gradient(120deg, rgba(10,10,10,0.7), rgba(50,50,50,0.7));
+    background: -webkit-linear-gradient(120deg, rgba(10,10,10,0.7), rgba(50,50,50,0.7));
+    background: -moz-linear-gradient(120deg, rgba(10,10,10,0.7), rgba(50,50,50,0.7));
+    background: -o-linear-gradient(120deg, rgba(10,10,10,0.7), rgba(50,50,50,0.7));
 }
 .nav-styles {
     background: rgba(0, 0, 0, 0.65);
@@ -66,6 +67,30 @@ button.navbar-toggler {
 .position-abs div h3 {
     text-align: center;
 }
+h1 span {
+    font-size: 150%;
+    text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -webkit-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -moz-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -ms-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -o-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+}
+h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
+    text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -webkit-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -moz-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -ms-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+    -o-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
+}
+.remodal-overlay {
+    background: rgba(50,50,250,0.7);
+}
+.ccrs-logo {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    bottom: 60px;
+}
 .position-abs h1 {
     text-align: center;
     text-shadow: 2px 2px 2px rgba(50,50,50,0.5), 2px 2px 2px rgba(100,100,100,0.5);
@@ -73,6 +98,7 @@ button.navbar-toggler {
     -moz-text-shadow: 2px 2px 2px rgba(50,50,50,0.5), 2px 2px 2px rgba(100,100,100,0.5);
     -ms-text-shadow: 2px 2px 2px rgba(50,50,50,0.5), 2px 2px 2px rgba(100,100,100,0.5);
     -o-text-shadow: 2px 2px 2px rgba(50,50,50,0.5), 2px 2px 2px rgba(100,100,100,0.5);
+    font-family: 'Alegreya', serif;
     position: relative;
     bottom: 1em;
 }
@@ -89,14 +115,44 @@ button.navbar-toggler {
 .position-abs strong {
     color: dodgerblue
 }
-.home-hero,
+.plans-container {
+    background: url('../img/wallet.jpeg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 540px;
+}
+.home-container {
+    background: url('../img/home.jpeg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 640px;
+}
+.contact-container {
+    background: url('../img/customer-service.jpeg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 640px;
+}
+.footer-container {
+    background: url('../img/boards.jpeg') 50% 0 repeat fixed;
+    background-size: auto;
+    min-height: 400px;
+}
+.home-block-container {
+    background: url('../img/snow.jpeg') 50% repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.services-container {
+    background: url('../img/credit-problem.jpeg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 640px;
+}
 .blog-hero,
 .about-hero,
 .contact-hero,
 .services-hero,
 .test-hero,
-.plan-hero-svg {
+.plan-hero {
     height: 500px;
+    width: 100%;
 }
 .credentials-foot a {
     font-size: 14px;
@@ -104,6 +160,15 @@ button.navbar-toggler {
 .w-40.mx-auto.mt-5 {
     margin-bottom: 10%;
 }
+
+.position-abs.services {
+    right: 30%;
+}
+.position-abs.services div {
+    height: 400px;
+    width: 400px;
+}
+
 input {
     box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
     -webkit-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
@@ -292,5 +357,89 @@ ul.mt-1.text-center {
     color: whitesmoke;
 }
 .u-divider {
+    color: dodgerblue;
+}
+div[data-remodal-id="modal"] {
+    background: transparent;
+}
+.remodal-p {
+    position: relative;
+    top: 50px;
+    color: white;
+    font-weight: 800;
+}
+div[data-remodal-id="modal"] a {
+ position: relative;
+ top: 50px;
+}
+.remodal-btn {
+    color: white;
+    background: rgba(50,50,250,0.3);
+    box-shadow: 2px 2px 4px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 2px 2px 4px rgba(50,50,50,0.5);
+    -moz-box-shadow: 2px 2px 4px rgba(50,50,50,0.5);
+    -ms-box-shadow: 2px 2px 4px rgba(50,50,50,0.5);
+    -o-box-shadow: 2px 2px 4px rgba(50,50,50,0.5);
+}
+.promises {
+    background: linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -webkit-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -moz-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -o-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    padding: 15px;
+}
+.promises ul {
+    list-style-type: none;
+}
+.promises h1,
+.promises h3,
+.promises ul li {
+    text-align: center;
+    color: white;
+}
+.goals h5,
+.goals li {
+    color: white;
+}
+.goals {
+    background: linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -webkit-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -moz-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    background: -o-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+}
+
+#map {
+    height: 70%;
+    width: 560px;
+    position: relative;
+    top: 10%;
+  }
+
+div.col-md-6.map-info span {
+    font-size: 21px;
+    position: relative;
+    top: 40px;
+}
+div.col-md-6.map-info span i {
     color: dodgerblue;
 }
