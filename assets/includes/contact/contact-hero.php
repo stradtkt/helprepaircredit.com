@@ -10,6 +10,7 @@
             <span class="ccrs-letter">R</span>epair 
             <span class="ccrs-letter">S</span>ervices
             </h1>
+            <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <div>
             <h3 class="text-primary">Contact</h3>
             <p>

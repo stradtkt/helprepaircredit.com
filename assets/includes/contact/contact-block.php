@@ -86,7 +86,6 @@
             <span><i class="far fa-phone"></i></span> <span>(513) 248-2600</span> <br>
             <span><i class="far fa-home"></i></span> <span>513 Main Street Milford, Ohio</span> <br>
             <span><i class="far fa-envelope"></i></span> <span><a href="mailto:completecreditrepairservices@gmail.com">Email Us</a></span>
-        <div id="map"></div>
         </div>
     </div>
 </div>

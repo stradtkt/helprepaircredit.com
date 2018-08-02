@@ -1,9 +1,9 @@
 
 <section class="footer-container" data-type="background" data-speed="3">
 <div class=" text-white text-center">
-  <div class="container u-space-1">
+  <div class="container u-space-2">
     <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
-      <span class="font-weight-bold">Credit Repair Services</span> – the people that bring joy back into peoples life.
+      <span class="font-weight-bold">Complete Credit Repair Services</span> - If you are having trouble, we would love to help turn your life around!
     </span>
             <!-- Button trigger modal -->
         <button type="button" class="btn subscribe" data-toggle="modal" data-target="#exampleModalLong">
@@ -49,110 +49,41 @@
 </div>
 </section>
 
-<div class="clearfix credentials-foot">
-  <div class="row">
-    <div class="col-sm-6 col-lg-3 u-ver-divider u-ver-divider--none-lg">
-      <div class="text-center py-5">
-        <span class="u-icon u-icon-primary--air u-icon--lg rounded-circle mb-4">
-          <span class="fa fa-map-marker-alt u-icon__inner"></span>
-        </span>
-        <h2 class="h6 mb-0">Address</h2>
-        <p class="mb-0">513 Main Street Milford, Ohio</p>
-      </div>
-    </div>
-
-    <div class="col-sm-6 col-lg-3 u-ver-divider u-ver-divider--none-lg">
-      <div class="text-center py-5">
-        <span class="u-icon u-icon-primary--air u-icon--lg rounded-circle mb-4">
-          <span class="fa fa-envelope u-icon__inner"></span>
-        </span>
-        <h3 class="h6 mb-0">Email</h3>
-        <a href="mailto:completecreditrepairservices@gmail.com" class="mb-0">completecreditrepairservices@gmail.com</a>
-      </div>
-    </div>
-
-    <div class="col-sm-6 col-lg-3 u-ver-divider u-ver-divider--none-lg">
-      <div class="text-center py-5">
-        <span class="u-icon u-icon-primary--air u-icon--lg rounded-circle mb-4">
-          <span class="fa fa-phone u-icon__inner"></span>
-        </span>
-        <h3 class="h6 mb-0">Phone Number</h3>
-        <a href="tel:5132482600" class="mb-0">+1 (513) 248-2600</a>
-      </div>
-    </div>
-
-    <div class="col-sm-6 col-lg-3">
-      <div class="text-center py-5">
-        <span class="u-icon u-icon-primary--air u-icon--lg rounded-circle mb-4">
-          <span class="fa fa-clock u-icon__inner"></span>
-        </span>
-        <h3 class="h6 mb-0">Hours</h3>
-        <p class="mb-0">9 a.m. - 6 p.m.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
 
 <!-- ========== FOOTER ========== -->
-<footer class="position-relative u-gradient-half-primary-v5">
-  <div class="container u-space-4-top u-space-2-bottom">
-    <!-- Title -->
-    <div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
-      <h2 class="text-white">Ready to <strong class="font-weight-bold">get started?</strong></h2>
-      <p class="u-text-light mb-0">Click on subscribe above or go to the contact page.</p>
+<footer id="subscribeModalAnchor" class="footer-style">
+  <div class="container text-center u-space-2">
+    <!-- Logo -->
+    <a class="d-inline-block mb-4" href="#" aria-label="CCRS">
+      <img src="assets/img/logo_new_2.png" alt="Logo" style="width: 40px;">
+    </a>
+    <!-- End Logo -->
+
+    <!-- Copyright -->
+    <p class="small text-white">&copy; Complete Credit Repair Services</p>
+    <!-- End Copyright -->
+    <div class="row">
+        <div class="col-sm-6 offset-3">
+            <ul class="nav">
+                <li class="nav-item"><a href="privacy.php" class="nav-link text-center">Privacy Policy</a></li>
+                <li class="nav-item"><a href="faq.php" class="nav-link text-center">FAQ</a></li>
+                <li class="nav-item"><a href="ccrs-location.php" class="nav-link text-center">Our Location</a></li>
+            </ul>
+        </div>
     </div>
-    <!-- End Title -->
-
-    <hr class="opacity-0_2 my-7">
-
-    <div class="row align-items-lg-center">
-      <div class="col-lg-3 mb-4 mb-lg-0">
-        <!-- Copyright -->
-        <p class="small u-text-light mb-0"><img class="footer-logo" src="assets/img/logo_new_2.png" alt=""> Complete Credit Repair Services &copy;</p>
-        <!-- End Copyright -->
-      </div>
-
-      <div class="col-md-8 col-lg-6 mb-4 mb-md-0">
-        <!-- List -->
-        <ul class="list-inline text-lg-center u-list u-list--white">
-          <li class="list-inline-item u-list__item pl-0"><a class="u-list__link" href="index.php">Home</a></li>
-          <li class="list-inline-item u-list__item"><a class="u-list__link" href="about.php">About</a></li>
-          <li class="list-inline-item u-list__item"><a class="u-list__link" href="plans.php">Plans</a></li>
-          <li class="list-inline-item u-list__item"><a class="u-list__link" href="services.php">Services</a></li>
-          <li class="list-inline-item u-list__item"><a class="u-list__link" href="testimonials.php">Testimonials</a></li>
-          <li class="list-inline-item u-list__item"><a class="u-list__link" href="contact.php">Contact</a></li>
-        </ul>
-        <!-- End List -->
-      </div>
-
-      <div class="col-md-4 col-lg-3">
-        <!-- Social Networks -->
-        <ul class="list-inline text-md-right mb-0">
-          <li class="list-inline-item">
-            <a class="u-icon u-icon-light--air rounded" href="#">
-              <span class="fab fa-facebook-f u-icon__inner"></span>
-            </a>
-          </li>
-        </ul>
-        <!-- End Social Networks -->
-      </div>
+    <div class="row">
+        <div class="col-sm-6 offset-3">
+            <ul class="nav">
+                <li class="nav-item"><a href="mailto:completecreditrepairservices@gmail.com" class="nav-link text-center">completecreditrepairservices@gmail.com</a></li>
+                <li class="nav-item"><a href="tel:2482600" class="nav-link text-center"><i class="far fa-phone"></i> Call Us Here</a></li>
+            </ul>
+        </div>
     </div>
-
-    <!-- SVG Background -->
-    <figure class="position-absolute-top-0">
-      <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-           width="100%" height="140px" viewBox="0 0 1920 140" style="margin-top: -2px; enable-background:new 0 0 1920 140;" xml:space="preserve">
-        <path class="u-fill-primary" opacity="0.3" d="M1607,81.8c0,0-274.6,48.2-560.1,19.9c-494.8-49.2-725.1,2.7-938.5,6.6C-203,114-339.2,85.6-339.2,85.6V9.4l1946.2,0V81.8z"/>
-        <path class="u-fill-primary" opacity="0.3" d="M2033.1,80.8c0,0-274.6,48.2-560.1,19.9c-494.8-49.2-725.1,2.7-938.5,6.6C223.1,113,86.9,84.6,86.9,84.6V8.5h1946.2V80.8z"/>
-        <path class="u-fill-white" opacity="0" d="M1526.9,5.6c0,0-309,96.5-698.5,96.5C406.8,102.1,201.4,7,201.4,7V1.8l1332,0L1526.9,5.6z"/>
-        <path class="u-fill-white" d="M2026.7,55.1c0,0-358.4,63.9-770,39c-523.7-31.8-712.6-8.6-938.5,6.6C-21.5,123.7-347.7,49-347.7,49l-8.5-51.3l2380.8,4.1L2026.7,55.1z"/>
-      </svg>
-    </figure>
-    <!-- End SVG Background Section -->
+    
   </div>
 </footer>
 <!-- ========== END FOOTER ========== -->
+
 
   <!-- Go to Top -->
   <a class="js-go-to u-go-to" href="#"
@@ -209,6 +140,17 @@
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWi3mIfX7sENvBCYlniuf80Emkq3iZyEQ&callback=initMap"
     async defer></script>
+    <script>
+    $(document).ready(function() {
+        var typed = new Typed(".u-text-animation.u-text-animation--typing.home-block", {
+            strings: ["simple", " more organized", "much easier"],
+            typeSpeed: 60,
+            loop: true,
+            backSpeed: 25,
+            backDelay: 1500
+        });
+    })
+</script>
   <script>
   $(document).on('ready', function () {
     // initialization of text animation (typing)

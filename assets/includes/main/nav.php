@@ -3,10 +3,9 @@
           <li class="nav-item"><img src="assets/img/logo_new_2.png" alt="Logo Brand"></li>
           <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="plans.php" class="nav-link">Plans</a></li>
           <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
           <li class="nav-item"><a href="testimonials.php" class="nav-link">Testimonials</a></li>
-          <!--<li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>-->
+          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
       </ul>
     </div>
