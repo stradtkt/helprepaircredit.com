@@ -254,27 +254,61 @@
     #content {
         width: 100%;
     }
-    .home-hero,
-    .blog-hero,
-    .about-hero,
-    .contact-hero,
-    .services-hero,
-    .test-hero,
-    .plan-hero-svg {
-        margin: 0 auto;
-        position: relative;
-        right: 50px;
+    p.hero-desktop {
+        display: none;
     }
     .position-abs {
         z-index: 10000;
     }
+    .about-block-container-1 div.col-sm-8.col-md-8.col-lg-8.offset-2.mt-5.mb-5.text-center {
+        position: relative;
+        right: 7%;
+    }
+    .about-block-container-3  img.card-img-top {
+        position: relative;
+        left: 23%;
+        padding-top: 20px;
+    }
+    .location-container .position-abs div,
+    .resources-container .position-abs div,
+    .services-container .position-abs div,
+    .about-container .position-abs div,
+    .home-container .position-abs div,
+    .privacy-container .position-abs div {
+        width: 290px !important;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .services-container .position-abs div {
+        position: relative;
+        left: 30%;
+    }
+    .privacy-container-1 .tab-pane {
+        width: 290px;
+    }
+    .privacy-container-1 .tab-pane h3,
+    .privacy-container-1 .tab-pane h4,
+    .privacy-container-1 .tab-pane p {
+        position: relative;
+        right: 50px;
+    }
+    .privacy-mail-link {
+        font-size: 83%;
+    }
+    .footer-style .nav.links {
+        display: block;
+        position: relative;
+        right: 17%;
+    }
+
+    
     button.navbar-toggler {
         position: relative;
-        right: 24%;
+        right: 0.5%;
     }
     ul.nav {
         position: relative;
-        right: 24%;
+        right: 0.5%;
     }
     /* Contact Page */
     form.js-validate {

@@ -80,7 +80,7 @@
                 <div class="tab-pane fade text-center" id="pills-unsubscribe" role="tabpanel" aria-labelledby="pills-unsubscribe-tab">
                 <h4><b><u>Unsubcribe Or Opt-Out</u></b></h4>
                       <p>
-                      All users and/or visitors to our website have an option to discontinue receiving communication from us and reserve the right to discontinue receiving information by email or newsletter. To discontinue or unsubscribe to our website please send us and email at <a href="mailto:completecreditrepairservices@gmail.com">CompleteCreditRepairServices@gmail.com</a>.
+                      All users and/or visitors to our website have an option to discontinue receiving communication from us and reserve the right to discontinue receiving information by email or newsletter. To discontinue or unsubscribe to our website please send us and email at <a class="privacy-mail-link" href="mailto:completecreditrepairservices@gmail.com">CompleteCreditRepairServices@gmail.com</a>.
                       </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-link" role="tabpanel" aria-labelledby="pills-link-tab">

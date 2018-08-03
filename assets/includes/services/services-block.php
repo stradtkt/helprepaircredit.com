@@ -236,3 +236,100 @@
         </div>
         </div>
 </section>
+<section class="services-container-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12 text-center mt-5 mb-5">
+                <h3 class="text-primary">Real Stats From Real Customers</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-10 col-md-10 col-lg-10 offset-1 mt-5 mb-5">
+            <div class="row">
+                <div class="col-sm-6 col-lg-3 mb-7 mb-lg-4">
+                    <div class="u-stats-v1__content">
+                    <figure>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                            viewBox="0 0 187 187" enable-background="new 0 0 187 187" xml:space="preserve">
+                        <g id="figuresV1SVG">
+                            <circle class="u-fill-white" cx="93.5" cy="93.5" r="93.5"/>
+                            <circle class="u-fill-white u-stroke-gray-50" stroke-width="7" stroke-miterlimit="10" cx="93.5" cy="93.5" r="81"/>
+                            <path class="u-fill-none u-stroke-warning" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" d="M93.5,12.5
+                            c44.7,0,81,36.3,81,81c0,21.3-8.2,40.6-21.6,55.1"/>
+                        </g>
+                        </svg>
+                    </figure>
+
+                    <div class="u-stats-v1__info">
+                        <h4 class="h4 text-warning">33%</h4>
+                        <p class="small mb-0">Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 mb-7 mb-lg-4">
+                    <div class="u-stats-v1__content">
+                    <figure>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                            viewBox="0 0 187 187" enable-background="new 0 0 187 187" xml:space="preserve">
+                        <g id="figuresV2SVG">
+                            <circle class="u-fill-white" cx="93.5" cy="93.5" r="93.5"/>
+                            <circle class="u-fill-white u-stroke-gray-50" stroke-width="7" stroke-miterlimit="10" cx="93.5" cy="93.5" r="81"/>
+                            <path class="u-fill-none u-stroke-primary" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" d="M93.5,12.5
+                            c43,0,78.2,33.6,80.8,75.9"/>
+                        </g>
+                        </svg>
+                    </figure>
+
+                    <div class="u-stats-v1__info">
+                        <h4 class="h4 text-primary">350+</h4>
+                        <p class="small mb-0">Points Raised</p>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 mb-7 mb-md-4">
+                    <div class="u-stats-v1__content">
+                    <figure>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                            viewBox="0 0 187 187" enable-background="new 0 0 187 187" xml:space="preserve">
+                        <g id="figuresV3SVG">
+                            <circle class="u-fill-white" cx="93.5" cy="93.5" r="93.5"/>
+                            <circle class="u-fill-white u-stroke-gray-50" stroke-width="7" stroke-miterlimit="10" cx="93.5" cy="93.5" r="81"/>
+                            <path class="u-fill-none u-stroke-danger" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" d="M93.5,12.5
+                            c26.7,0,50.4,12.9,65.2,32.9"/>
+                        </g>
+                        </svg>
+                    </figure>
+
+                    <div class="u-stats-v1__info">
+                        <h4 class="h4 text-danger">18+</h4>
+                        <p class="small mb-0">signed up</p>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-3 mb-7 mb-md-4">
+                    <div class="u-stats-v1__content">
+                    <figure>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                            viewBox="0 0 187 187" enable-background="new 0 0 187 187" xml:space="preserve">
+                        <g id="figuresV4SVG">
+                            <circle class="u-fill-white" cx="93.5" cy="93.5" r="93.5"/>
+                            <circle class="u-fill-white u-stroke-gray-50" stroke-width="7" stroke-miterlimit="10" cx="93.5" cy="93.5" r="81"/>
+                            <path class="u-fill-none u-stroke-success" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" d="M12.5,93.5a81,81 0 1,0 162,0a81,81 0 1,0 -162,0"/>
+                        </g>
+                        </svg>
+                    </figure>
+
+                    <div class="u-stats-v1__info">
+                        <h4 class="h4 text-success">100%</h4>
+                        <p class="small mb-0">Satisfied Customers</p>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -51,6 +51,7 @@ if(isset($_POST['submit'])){
   <link rel="stylesheet" href="assets/css/fa/css/all.min.css">
   <link rel="stylesheet" href="assets/js/remodal/dist/remodal.css">
   <link rel="stylesheet" href="assets/js/remodal/dist/remodal-default-theme.css">
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/theme/assets/css/front.css">

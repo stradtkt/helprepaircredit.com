@@ -6,12 +6,13 @@
 
       <div class="col-lg-12 mt-auto">
       <div class="position-abs">
-            <h1 class="text-primary display-5 font-size-48--md-down font-weight-bold">Complete Credit Repair Services</h1>
             <div>
-            <h3 class="text-primary">About</h3>
+            <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
+            <h1 class="text-primary mt-5">About</h1>
             <p>
                     About 
-                <strong class="u-text-animation u-text-animation--typing about"></strong>
+                <strong class="u-text-animation u-text-animation--typing about"></strong><br>
+                <p class="hero-desktop">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur sequi quam distinctio consequatur, facilis quos eos error quia recusandae perspiciatis, eaque non officiis porro pariatur?</p>
             </p>
             </div>
             </div>

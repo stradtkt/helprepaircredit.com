@@ -63,19 +63,21 @@
     <p class="small text-white">&copy; Complete Credit Repair Services</p>
     <!-- End Copyright -->
     <div class="row">
-        <div class="col-sm-6 offset-3">
-            <ul class="nav">
-                <li class="nav-item"><a href="privacy.php" class="nav-link text-center">Privacy Policy</a></li>
-                <li class="nav-item"><a href="faq.php" class="nav-link text-center">FAQ</a></li>
-                <li class="nav-item"><a href="ccrs-location.php" class="nav-link text-center">Our Location</a></li>
+        <div class="col-sm-6 offset-3 text-center">
+            <ul class="nav links">
+                <li class="nav-item"><a href="privacy.php" class="nav-link">Privacy Policy</a></li>
+                <li class="nav-item"><a href="faq.php" class="nav-link">FAQ</a></li>
+                <li class="nav-item"><a href="ccrs-location.php" class="nav-link">Our Location</a></li>
+                <li class="nav-item"><a href="resources.php" class="nav-link">Resources &amp; Info</a></li>
             </ul>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-6 offset-3">
             <ul class="nav">
-                <li class="nav-item"><a href="mailto:completecreditrepairservices@gmail.com" class="nav-link text-center">completecreditrepairservices@gmail.com</a></li>
-                <li class="nav-item"><a href="tel:2482600" class="nav-link text-center"><i class="far fa-phone"></i> Call Us Here</a></li>
+                <li class="nav-item"><a href="mailto:completecreditrepairservices@gmail.com" class="nav-link text-center"><i class="far fa-envelope"></i></a></li>
+                <li class="nav-item"><a href="tel:2482600" class="nav-link text-center"><i class="far fa-phone"></i><i class="far fa-phone-alt"></i></a></li>
+                <li class="nav-item"><a href="https://www.facebook.com/Helprepaircredit/" target="_blank" class="nav-link"><i class="fab fa-facebook"></i></a></li>
             </ul>
         </div>
     </div>
@@ -99,6 +101,7 @@
 
   <!-- JS Global Compulsory -->
   <script src="assets/theme/assets/vendor/jquery/dist/jquery.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
   <script src="assets/theme/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
   <script src="assets/theme/assets/vendor/bootstrap/bootstrap.min.js"></script>
@@ -109,6 +112,7 @@
   <script src="assets/theme/assets/vendor/gmaps/gmaps.min.js"></script>
   <script src="assets/js/remodal/dist/remodal.min.js"></script>
   <script src="assets/js/my-remodal.js"></script>
+  <script src="assets/js/mobile.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>
@@ -116,30 +120,38 @@
   <script src="assets/theme/assets/js/components/hs.fancybox.js"></script>
   <script src="assets/theme/assets/js/components/hs.go-to.js"></script>
   <script src="assets/theme/assets/vendor/typed.js/lib/typed.min.js"></script>
+  <script src="assets/css/maps-icons/dist/js/map-icons.min.js"></script>
   <script src="assets/js/parallax.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWi3mIfX7sENvBCYlniuf80Emkq3iZyEQ&callback=initMap"
+    async defer></script>
   <script>
       var map;
       function initMap() {
+          var speedway = {lat: 39.176890, lng: -84.285858}
           var myLatLng = {lat: 39.176787, lng: -84.292260};
           var bygolly = {lat: 39.176498, lng:-84.286220}
         map = new google.maps.Map(document.getElementById('map'), {
           center: myLatLng,
-          zoom: 10
+          zoom: 15
         });
         var marker = new google.maps.Marker({
-            position: myLatLng,
             map: map,
+            position: myLatLng,
             title: 'Complete Credit Repair Services'
         });
         var marker1 = new google.maps.Marker({
-            position: bygolly,
             map: map,
-            title: 'By Golly\'s'
+            position: speedway,
+            title: 'Speedway'
+        });
+        var marker2 = new google.maps.Marker({
+            map: map,
+            position: bygolly,
+            title: 'ByGolly\'s'
         });
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWi3mIfX7sENvBCYlniuf80Emkq3iZyEQ&callback=initMap"
-    async defer></script>
+
     <script>
     $(document).ready(function() {
         var typed = new Typed(".u-text-animation.u-text-animation--typing.home-block", {

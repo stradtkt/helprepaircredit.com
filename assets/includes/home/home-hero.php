@@ -6,18 +6,13 @@
 
       <div class="col-lg-12 mt-auto">
       <div class="position-abs home">
-      <h1 class="display-5 font-size-48--md-down font-weight-bold">
-            <span class="ccrs-letter">C</span>omplete 
-            <span class="ccrs-letter">C</span>redit 
-            <span class="ccrs-letter">R</span>epair 
-            <span class="ccrs-letter">S</span>ervices
-            </h1>
-            <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <div>
-            <h3 class="text-primary">Home</h3>
+            <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
+            <h1 class="text-primary text-bold mt-5">CCRS</h1>
             <p>
                     Your credit will let you 
-                <strong class="u-text-animation u-text-animation--typing home"></strong>
+                <strong class="u-text-animation u-text-animation--typing home"></strong><br>
+                <p class="hero-desktop">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, animi laboriosam. Consectetur sapiente esse dignissimos voluptatum ad explicabo voluptates possimus quaerat eos officiis? Possimus fugit culpa eos exercitationem sit ratione.</p>
             </p>
             </div>
             </div>
