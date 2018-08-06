@@ -696,13 +696,6 @@ div.col-md-6.map-info span i {
     -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
     -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
 }
-.card.owners img {
-    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-}
 .about-block-container-2 button.learn-more-btn {
     position: relative;
     left: 20%;
