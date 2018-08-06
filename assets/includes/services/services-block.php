@@ -174,7 +174,18 @@
 <section class="services-container-2">
     <div class="container">
         <div class="row">
-            <div class="col-md-6"></div>
+            <div class="col-md-6">
+                <div class="ipad text-center">
+                    <img src="assets/img/logo_new_2.png" alt="">
+                    <ul class="mt-1 text-center lead">
+                        <h5>Average score increase in 35 days</h5>
+                        <li>10-15 points or more 93%</li>
+                        <li>20-30 points or more 82%</li>
+                        <li>50-60 points or more 40%</li>
+                        <li>100 points or more 25%</li>
+                    </ul>
+                </div>
+            </div>
             <div class="col-md-6"></div>
         </div>
     </div>

@@ -99,6 +99,10 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
 }
 .position-abs div {
     border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
     background: linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
     background: -webkit-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
     background: -moz-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
@@ -122,46 +126,64 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
 .faq-container .position-abs div {
     width: 400px;
 }
+.about-container .position-abs div {
+    width: 400px;
+    float: left;
+}
+.contact-container .position-abs div {
+    width: 400px;
+    position: relative;
+    bottom: 45px;
+}
 .faq-container-1 div div .faq button.btn {
     color: dodgerblue;
 }
-.faq-container-1 div div .faq {
-    background: linear-gradient(90deg, rgba(200,200,200,0.1), rgba(250,250,250,0.5));
-}
 .home-container {
-    background: url('../img/home.jpeg') 50% 0 repeat fixed;
+    background: url('../img/home__2.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
+.testimonial-container-1 .card {
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+}
 .testimonial-container {
-    background: url('../img/customer-service.jpeg') 50% 0 repeat fixed;
+    background: url('../img/customer-service__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 550px;
 }
-.contact-container {
-    background: url('../img/customer-service.jpeg') 50% 0 repeat fixed;
+.blog-container {
+    background: url('../img/blog-paint__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
+.contact-container {
+    background: url('../img/silk-wave__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
 .footer-container {
-    background: url('../img/cool-black-grey.jpeg') 50% 0 repeat fixed;
+    background: url('../img/cool-black-grey__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 200px;
     background-color: rgba(100,100,250,0.5);
     background-blend-mode: multiply;
 }
 .home-block-container {
-    background: url('../img/woman-3.jpeg') 0% 0 repeat fixed;
+    background: url('../img/woman-3__1.jpg') 0% 0 repeat fixed;
     background-size: cover;
     min-height: 500px;
 }
 .services-container {
-    background: url('../img/credit-problem.jpeg') 50% 0 repeat fixed;
+    background: url('../img/credit-problem__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
 .services-container-2 {
-    background: url('../img/ipad.jpeg') 50% 0 repeat fixed;
+    background: url('../img/ipad__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 500px;
 }
@@ -170,12 +192,12 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
     min-height: 400px;
 }
 .about-block-container-2 {
-    background: url('../img/credit-fix.jpeg') 50% 0 repeat fixed;
+    background: url('../img/credit-fix__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 500px;
 }
 .about-container {
-    background: url('../img/credit-score.jpeg') 50% 0 repeat fixed;
+    background: url('../img/credit-score__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
@@ -193,8 +215,29 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
 .services-container-1 ul li {
     text-align: center;
 }
+.services-container-2 div.ipad {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background: linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -webkit-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -moz-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -o-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    width: 500px;
+    margin: 10% auto;
+    padding: 25px;
+}
+.services-container-2 div.ipad img {
+    margin: 0 auto;
+    display: block;
+}
+.services-container-2 div.ipad h1 {
+    text-align: center;
+}
 .privacy-container {
-    background: url('../img/fix-credit.jpg') 50% 0 repeat fixed;
+    background: url('../img/fix-credit__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
@@ -210,7 +253,7 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
     color: white;
 }
 .faq-container {
-    background: url('../img/credit-101.jpg') 50% 0 repeat fixed;
+    background: url('../img/credit-101__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 640px;
 }
@@ -219,7 +262,7 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
     bottom: 10px;
 }
 .location-container {
-    background: url('../img/desk.jpeg') 50% 0 repeat fixed;
+    background: url('../img/desk__1.jpg') 50% 0 repeat fixed;
     background-size: cover;
     min-height: 400px;
 }
@@ -238,6 +281,60 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
 .resources-container-1 {
     min-height: 300px;
 }
+.article-1-container {
+    background: url('../img/credit-101__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-1-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
+.article-2-container {
+    background: url('../img/credit-problem__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-2-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
+.article-3-container {
+    background: url('../img/home__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-3-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
+.article-4-container {
+    background: url('../img/woman-3__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-4-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
+.article-5-container {
+    background: url('../img/silk-wave__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-5-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
+.article-6-container {
+    background: url('../img/desk__1.jpg') 50% 0 repeat fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+.article-6-container .position-abs div {
+    position: relative;
+    bottom: 40px;
+}
 .resources-container-1 h1 {
     text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
     -webkit-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
@@ -246,15 +343,7 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
     -o-text-shadow: 2px 2px 5px rgba(100,100, 250, 0.5);
     font-family: 'Alegreya', serif;
 }
-.blog-hero,
-.about-hero,
-.contact-hero,
-.services-hero,
-.test-hero,
-.plan-hero {
-    height: 500px;
-    width: 100%;
-}
+
 .credentials-foot a {
     font-size: 14px;
 }
@@ -512,22 +601,7 @@ div[data-remodal-id="modal"] a {
 .goals li {
     color: white;
 }
-.goals {
-    background: linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
-    background: -webkit-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
-    background: -moz-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
-    background: -o-linear-gradient(90deg, dodgerblue, rgba(150,150,180,0.5));
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
-    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
-}
+
 
 #map {
     height: 400px;
@@ -589,4 +663,55 @@ div.col-md-6.map-info span i {
     background: -moz-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
     background: -webkit-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
     background: -o-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
+}
+.footer-style ul.nav li.nav-item a.nav-link i {
+    position: relative;
+    left: 12.3em;
+}
+.about-fix-credit {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background: linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -webkit-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -moz-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    background: -o-linear-gradient(120deg, rgba(220,220,220,0.8), rgba(250,250,250,0.7));
+    width: 500px;
+    margin: 10% auto;
+    padding: 25px;
+}
+.about-fix-credit img {
+    display: block;
+    margin: 0 auto;
+}
+.about-fix-credit ul {
+    list-style-type: none;
+}
+.card.owners {
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+}
+.card.owners img {
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+}
+.about-block-container-2 button.learn-more-btn {
+    position: relative;
+    left: 20%;
+}
+.credentials {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.credentials span {
+    font-size: 30px;
 }

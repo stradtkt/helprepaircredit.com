@@ -20,7 +20,23 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6"></div>
-            <div class="col-md-6"></div>
+            <div class="col-md-6">
+                <div class="about-fix-credit">
+                    <img src="assets/img/logo_new_2.png" alt="">
+                    <h1 class="text-center">More...</h1>
+                        <h3 class="text-center">What Can CCRS do for you?</h3>
+                        <p class="text-center">
+                        We will be with you every step of the way.
+                        We are a company with integrity, striving to give you the best experience.
+                        We are experienced with consumer, business and mortgage credit
+                        Credit education, correction, and the law is on your side as well.
+                        We prepare all of the neccessary documents that is needed for the credit bureaus.
+                        Our fees are reasonable and there are no binding contracts.
+                        </p>
+
+                    <button class="learn-more-btn btn btn-lg mt-5"><a href="contact.php"><span>Need Credit Help? Contact Us</span> <i class="far fa-chevron-double-right"></i></a></button>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -33,22 +49,22 @@
     </div>
     <div class="row my-5 mb-5">
         <div class="col-sm-6 col-md-6 col-lg-6 mt-5 mb-5">
-        <div class="card">
+        <div class="card owners">
         <img class="card-img-top" src="assets/img/charlie.jpg" alt="Card image cap">
         <div class="card-body text-center">
             <h5 class="card-title">Charlie Sims</h5>
             <p class="card-text">Founder &amp; CEO</p>
-            <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus iusto neque commodi magnam sed perferendis.</p>
+            <p class="">"I plan to make your credit score great again.  Let us help you, so we can turn your life around."<br> --Charlie Sims</p>
         </div>
         </div>
         </div>
         <div class="col-sm-6 col-md-6 col-lg-6 mt-5 mb-5">
-        <div class="card">
+        <div class="card owners">
         <img class="card-img-top" src="assets/img/brandon.jpg" alt="Card image cap">
         <div class="card-body text-center">
             <h5 class="card-title">Brandon Sims</h5>
             <p class="card-text">Vice President</p>
-            <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, esse accusamus quas eos laborum ad.</p>
+            <p class="">"We are a young motivated team striving to help people, and aim to turn people's lives around."<br> --Brandon Sims</p>
         </div>
         </div>            
         </div>

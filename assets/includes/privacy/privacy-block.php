@@ -2,6 +2,7 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-sm-8 col-md-8 col-lg-8 offset-2 mt-5 mb-5">
+                
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="pills-agreement-tab" data-toggle="pill" href="#pills-agreement" role="tab" aria-controls="pills-agreement" aria-selected="true">Agreement</a>
@@ -47,7 +48,7 @@
                         </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-collections" role="tabpanel" aria-labelledby="pills-collections-tab">
-                <h4><b><u>Collections of Information</u></b></h4>
+                <h4 class="text-primary">Collections of Information</h4>
                       <p>
                         This is a website collects various types of information, such as:
                         *Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
@@ -57,7 +58,7 @@
                       </p>
             </div>
                 <div class="tab-pane fade text-center" id="pills-info" role="tabpanel" aria-labelledby="pills-info-tab">
-                <h4><b><u>Use Of Information Collected</u></b></h4>
+                <h4 class="text-primary">Use Of Information Collected</h4>
                       <p>
                       Complete Credit Repair Services may collect and make use of your personal information to assist in the operation of out website and to insure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as to keep you informed of other possible product and/or services that may be available to you from www. helprepaircredit.com. Complete Credit Repair Services
                         may also be in contact with you with regards to completing surveys and /or research questionnaires related to your opinion of current or potential future services that may be offered.
@@ -72,37 +73,37 @@
                       </p>
             </div>
                 <div class="tab-pane fade text-center" id="pills-underage" role="tabpanel" aria-labelledby="pills-underage-tab">
-                    <h4><b><u>Children Under Age Of 13</u></b></h4>
+                    <h4 class="text-primary">Children Under Age Of 13</h4>
                     <p>
                     Complete Credit Repair Services does not knowingly collect personal identifiable information from children under the age of 14 without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen, we shall immediately take the necessary steps to ensure that such information is deleted from the system database. Anyone under thirteen must seek or obtain parent or guardian permission to use website.
                     </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-unsubscribe" role="tabpanel" aria-labelledby="pills-unsubscribe-tab">
-                <h4><b><u>Unsubcribe Or Opt-Out</u></b></h4>
+                <h4 class="text-primary">Unsubcribe Or Opt-Out</h4>
                       <p>
                       All users and/or visitors to our website have an option to discontinue receiving communication from us and reserve the right to discontinue receiving information by email or newsletter. To discontinue or unsubscribe to our website please send us and email at <a class="privacy-mail-link" href="mailto:completecreditrepairservices@gmail.com">CompleteCreditRepairServices@gmail.com</a>.
                       </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-link" role="tabpanel" aria-labelledby="pills-link-tab">
-                <h4><b><u>Links To Other Web Sites</u></b></h4>
+                <h4 class="text-primary">Links To Other Web Sites</h4>
                       <p>
                       Our website does contain links to affiliate and other websites. Complete Credit Repair Services does not claim nor accept responsibility for any privacy policies, practices or procedures of other websites.
                       </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-security" role="tabpanel" aria-labelledby="pills-security-tab">
-                <h4><b><u>Security</u></b></h4>
+                <h4 class="text-primary">Security</h4>
                       <p>
                       Complete Credit Repair Services shall endeavor and shall take ever precaution to maintain adequate physical, procedural and technical security with respect to out offices information storage facilities so as to prevent any loss, misuse, unauthorized access, disclose,or modification of the users personal information under our control. The company uses SSL Secure Socket Layer to build trust and confidence on the internet and website.
                       </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-changes" role="tabpanel" aria-labelledby="pills-changes-tab">
-                <h4><b><u>Changes to the Privacy Policy Agreement</u></b></h4>
+                <h4 class="text-primary">Changes to the Privacy Policy Agreement</h4>
                       <p>
                       Complete Credit Repair Services reserves the right to update and or change the terms of out privacy policy, and as such we ill post those change to our website homepage at www.helprepaircredit.com, so that are users and or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any , we may disclose such information. If we decide in the future that we are going to share your information you will be notified by email promptly. Then the users shall have the option as to whether or not to permit the use of their information in this separate manner.
                       </p>
                 </div>
                 <div class="tab-pane fade text-center" id="pills-accept" role="tabpanel" aria-labelledby="pills-accept-tab">
-                <h4><b><u>Acceptance of Terms </u></b></h4>
+                <h4 class="text-center">Acceptance of Terms </h4>
                       <p>
                       Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of are site. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
                       </p>

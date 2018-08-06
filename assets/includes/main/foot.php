@@ -101,7 +101,6 @@
 
   <!-- JS Global Compulsory -->
   <script src="assets/theme/assets/vendor/jquery/dist/jquery.min.js"></script>
-  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
   <script src="assets/theme/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
   <script src="assets/theme/assets/vendor/bootstrap/bootstrap.min.js"></script>
@@ -109,10 +108,9 @@
   <!-- JS Implementing Plugins -->
   <script src="assets/theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="assets/theme/assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-  <script src="assets/theme/assets/vendor/gmaps/gmaps.min.js"></script>
   <script src="assets/js/remodal/dist/remodal.min.js"></script>
+  <script src="assets/theme/assets/vendor/gmaps/gmaps.min.js"></script>
   <script src="assets/js/my-remodal.js"></script>
-  <script src="assets/js/mobile.js"></script>
 
   <!-- JS Front -->
   <script src="assets/theme/assets/js/hs.core.js"></script>
@@ -120,10 +118,8 @@
   <script src="assets/theme/assets/js/components/hs.fancybox.js"></script>
   <script src="assets/theme/assets/js/components/hs.go-to.js"></script>
   <script src="assets/theme/assets/vendor/typed.js/lib/typed.min.js"></script>
-  <script src="assets/css/maps-icons/dist/js/map-icons.min.js"></script>
   <script src="assets/js/parallax.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWi3mIfX7sENvBCYlniuf80Emkq3iZyEQ&callback=initMap"
-    async defer></script>
+  <script src="assets/theme/assets/js/components/hs.unfold.js"></script>
   <script>
       var map;
       function initMap() {
@@ -134,6 +130,7 @@
           center: myLatLng,
           zoom: 15
         });
+        
         var marker = new google.maps.Marker({
             map: map,
             position: myLatLng,
@@ -151,7 +148,8 @@
         });
       }
     </script>
-
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOYwQ8yQ9Xhlbuf1Gx8ZnBtJYXKO0y4KQ&callback=initMap"
+    async defer></script>
     <script>
     $(document).ready(function() {
         var typed = new Typed(".u-text-animation.u-text-animation--typing.home-block", {
@@ -241,13 +239,9 @@
         });
     })
 </script>
-  <!-- JS Plugins Init. -->
   <script>
 
     $(document).on('ready', function () {
-      // initialization of header
-      $.HSCore.components.HSHeader.init($('#header'));
-
       // initialization of unfold component
       $.HSCore.components.HSUnfold.init($('[data-unfold-target]'));
 

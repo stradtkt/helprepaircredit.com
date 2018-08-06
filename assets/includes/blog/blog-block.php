@@ -1,164 +1,191 @@
-<div class="container u-space-1-top u-space-1-top--md u-space-1-top--lg u-space-1-bottom">
-        <h1 class="font-weight-bold text-center text-primary">Blog</h1>
-
-      <div class="row mx-gutters-2">
-        <div class="col-md-7 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img8.jpg);">
-            <article class="w-100 text-center p-6">
-              <h2 class="h4 text-white">Front &amp; envelope</h2>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Neyton Burchie</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img3.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
+<section class="blog-container-1">
+    <div class="container">
+    <div class="row mt-5">
+        <div class="col-sm-12 col-md-12 col-lg-12 mt-5">
+            <h1 class="text-center text-primary">Helpful Blogs That Lead To Success With Your Credit</h1>
+            <p class="text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae omnis eos aut odio reprehenderit. Qui laboriosam ea magnam saepe labore.</p>
         </div>
-
-        <div class="col-md-5 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img9.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Gimme that Awwward!</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Tina Krueger</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img1.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img10.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Announcing a plan for small teams</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Liza Nelson</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img2.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img11.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Breathing in the Crisp Air of Lake</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Tina Krueger</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img1.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-5 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img12.jpg);">
-            <article class="w-100 text-center p-6">
-              <h2 class="h4 text-white">InVision design forward fund</h2>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Neyton Burchie</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img3.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-7 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img7.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Design principles</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Liza Nelson</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img2.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img6.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">How to make trust your competitive advantage</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Scott Levine</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img4.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img4.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Trends with benefits</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Tina Krueger</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img1.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-12 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/900x450/img10.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">A new look for Reuters.com</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Scott Levine</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img4.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img5.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">5 basic tips for painting</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Neyton Burchie</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img3.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-
-        <div class="col-md-6 mb-3">
-          <!-- Blog News -->
-          <a class="d-flex align-items-end u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo min-height-450" href="single-article-classic.html" style="background-image: url(assets/theme/assets/img/400x500/img3.jpg);">
-            <article class="w-100 text-center p-6">
-              <h3 class="h4 text-white">Listen to Scott Belsky</h3>
-              <div class="mt-4">
-                <strong class="d-block u-text-light mb-2">Tina Krueger</strong>
-                <img class="img-fluid u-sm-avatar rounded-circle mx-auto" src="assets/theme/assets/img/100x100/img1.jpg" alt="Image Description">
-              </div>
-            </article>
-          </a>
-          <!-- End Blog News -->
-        </div>
-      </div>
-
-      <div class="u-space-2-bottom"></div>
     </div>
-    <!-- End Blog Modern Section -->
+    <div class="row mt-5 mb-5">
+  <div class="col-lg-4 mt-5 mb-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/credit-101__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/img/charlie.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Charlie Sims</a>
+            </h3>
+            <small class="d-block text-white"><a class="u-text-light" href="#">CCRS</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">20 hours ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-1.php">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, perferendis.</a>
+        </h2>
+        <p class="u-text-light mb-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi officia illum quae?</p>
+      </div>
+    </article>
+  </div>
+  <div class="col-lg-4 mt-5 mb-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/silk-wave__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/img/brandon.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Brandon Sims</a>
+            </h3>
+            <small class="d-block text-white"><a class="u-text-light" href="#">CCRS</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">18 hours ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-2.php">Facebook is creating a news section in Watch to feature breaking news</a>
+        </h2>
+        <p class="u-text-light mb-0">Facebook launched the Watch platform in August</p>
+      </div>
+    </article>
+  </div>
+  <div class="col-lg-4 mt-5 mb-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/woman-3__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/theme/assets/img/100x100/img3.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Scott Levine</a>
+            </h3>
+            <small class="d-block text-white">on <a class="u-text-light" href="#">Buzzfeed</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">1 day ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-3.php">Facebook is creating a news section in Watch to feature breaking news</a>
+        </h2>
+        <p class="u-text-light mb-0">Facebook launched the Watch platform in August</p>
+      </div>
+    </article>
+  </div>
+
+</div>
+        <div class="row mb-5">
+  <div class="col-lg-4 mb-5 mt-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/credit-score__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/img/charlie.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Charlie Sims</a>
+            </h3>
+            <small class="d-block text-white">on <a class="u-text-light" href="#">CCRS</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">1 day ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-4.php">Just in!! New ways to raise your credit and save money</a>
+        </h2>
+        <p class="u-text-light mb-0"></p>
+      </div>
+    </article>
+  </div>
+  <div class="col-lg-4 mb-5 mt-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/ipad__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/img/brandon.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Brandon Sims</a>
+            </h3>
+            <small class="d-block text-white"><a class="u-text-light" href="#">CCRS</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">3 day ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-5.php">How can you save money?  You can start by reading this blog.</a>
+        </h2>
+        <p class="u-text-light mb-0">Tips and tricks to save money</p>
+      </div>
+    </article>
+  </div>
+  <div class="col-lg-4 mb-5 mt-5 mb-lg-0">
+    <article class="d-flex align-items-start flex-column u-blog-overlay-v1 transition-3d-hover" style="background-image: url(assets/img/desk__1.jpg);">
+      <header class="w-100 d-flex justify-content-between mb-3">
+        <div class="media align-items-center">
+          <div class="d-flex mr-3">
+            <a class="u-sm-avatar position-relative" href="#">
+              <img class="img-fluid u-sm-avatar rounded-circle" src="assets/img/charlie.jpg" alt="Image Description">
+              <span class="u-badge u-badge-primary u-badge-pos u-badge-pos--bottom-right rounded-circle">+</span>
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="h6 text-white mb-0">
+              <a href="#">Charlie Sims</a>
+            </h3>
+            <small class="d-block text-white"><a class="u-text-light" href="#">CCRS</a></small>
+          </div>
+        </div>
+
+        <small class="d-block u-text-light">4 days ago</small>
+      </header>
+
+      <div class="mt-auto">
+        <h2 class="h5 text-white">
+          <a href="article-6.php">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, corrupti.</a>
+        </h2>
+        <p class="u-text-light mb-0">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur error itaque ad.</p>
+      </div>
+    </article>
+  </div>
+</div>
+        </div>
+</section>
 
     
