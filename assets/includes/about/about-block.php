@@ -1,7 +1,7 @@
 <section class="about-block-container-1">
     <div class="container">
-        <div class="row mt-5 mb-5">
-            <div class="col-sm-8 col-md-8 col-lg-8 offset-2 mt-5 mb-5 text-center">
+        <div class="row">
+            <div class="col-sm-12 col-md-8 col-lg-8 offset-2 text-center">
                 <h1 class="text-primary">About CCRS</h1>
                 <p>
                 CCRS has many years of experience in evaluating credit and guiding consumers to assert their legal rights. 
@@ -20,10 +20,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6"></div>
-            <div class="col-md-6">
+            <div class="col-sm-6 col-md-6 col-lg-6">
                 <div class="about-fix-credit">
                     <img src="assets/img/logo_new_2.png" alt="">
-                    <h1 class="text-center">More...</h1>
+                    <h1 class="text-center"></h1>
                         <h3 class="text-center">What Can CCRS do for you?</h3>
                         <p class="text-center">
                         We will be with you every step of the way.
@@ -42,7 +42,7 @@
 </section>
 <section class="about-block-container-3">
 <div class="container">
-    <div class="row mt-5 mb-5">
+    <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
             <h1 class="text-center">Owners</h1>
         </div>
