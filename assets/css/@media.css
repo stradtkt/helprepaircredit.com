@@ -222,6 +222,345 @@
     /* End Footer */
 }
 
+@media (max-width: 824px) {
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        height: 100%;
+    }
+    .position-abs > h1 {
+        font-size: 30px;
+    }
+    #content {
+        width: 100%;
+    }
+    p.hero-desktop {
+        display: none;
+    }
+    .position-abs {
+        z-index: 10000;
+    }
+    div.about-fix-credit {
+        position: relative;
+        right: 0px;
+    }
+    div.about-fix-credit p {
+        font-size: 13px;
+    }
+    .about-block-container-2 {
+        height: 600px;
+    }
+    .home-container .position-abs {
+        position: relative;
+        bottom: 30px;
+        right: 100px;
+    }
+    .home-block-container-2 .top-row-text,
+    .home-block-container-1 .top-row-text {
+        position: relative;
+        left: 4%;
+        width: 100%;
+    }
+    .home-block-container-2 .col-md-4 button.learn-more-btn {
+        width: 300px;
+        position: relative;
+        display: block;
+        margin: 0 auto;
+    }
+    .home-block-container-1 .row-of-3 .col-md-4 button.learn-more-btn.btn.btn-lg {
+        width: 300px;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        right: 30%;
+    }
+    .home-block-container-2 .top-row-text h3 {
+        font-size: 30px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-1 .top-row-text h3 {
+        font-size: 30px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-2 .top-row-text p {
+        font-size: 18px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-1 .top-row-text p {
+        font-size: 18px;
+        position: relative;
+        right: 40px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div {
+        position: relative;
+        bottom: 100px;
+        width: 200px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4.first div {
+        right: 80px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4.second div {
+        right: 50px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4  {
+        position: relative;
+        left: 100px;
+        margin: 0 20px 0 0;
+    }
+    .home-block-container-1 .row-of-3 {
+        position: relative;
+        right: 40px;
+        width: 600px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div {
+        position: relative;
+        width: 200px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.first div {
+        right: 150px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.second div {
+        right: 120px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.third div {
+        right: 80px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-clock {
+        position: relative;
+        right: 105px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-trash {
+        position: relative;
+        right: 90px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-badge-check {
+        position: relative;
+        right: 55px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i {
+        position: relative;
+        bottom: 100px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-toolbox {
+        position: relative;
+        right: 45px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-mobile-alt,
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-desktop-alt {
+        position: relative;
+        right: 15px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-money-bill {
+        position: relative;
+        left: 10px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div p {
+        font-size: 14px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div h4 {
+        font-size: 18px;
+    }
+    .home-block-container-1 .row-of-3 .col-md-4.mt-5.mb-5 div p {
+        font-size: 14px;
+    }
+    .about-block-container-1 div.col-sm-8.col-md-8.col-lg-8.offset-2.mt-5.mb-5.text-center {
+        position: relative;
+        right: 7%;
+    }
+    .about-block-container-3  img.card-img-top {
+        position: relative;
+        left: 1%;
+        padding-top: 20px;
+    }
+    .about-block-container-3 div.col-sm-6.col-md-6.col-lg-6.mt-5.mb-5 .card.owners {
+        position: relative;
+        left: 1%;
+    }
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center  h1,
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center p {
+        position: relative;
+        right: 15%;
+    }
+    .home-container .position-abs div,
+    .about-container .position-abs div {
+        position: relative;
+        left: 150px;
+    }
+    .about-container .position-abs {
+        position: relative;
+        right: 100px;
+        bottom: 50px;
+    }
+    .about-block-container-1 .row .col-sm-12.col-md-8.col-lg-8.offset-2.text-center {
+        width: 100%;
+    }
+    .contact-container .position-abs div,
+    .location-container .position-abs div,
+    .resources-container .position-abs div,
+    .services-container .position-abs div,
+    .about-container .position-abs div,
+    .home-container .position-abs div,
+    .privacy-container .position-abs div {
+        width: 390px !important;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .services-container .position-abs div {
+        position: relative;
+        left: 30%;
+    }
+    .services-container-1 #pricingMonthly .u-pricing-v1 {
+        width: 350px;
+        margin: 0 auto;
+        position: relative;
+        right: 10px;
+    }
+    .services-container-3 .col-md-3 {
+        width: 390px;
+    }
+    .services-container-3 h3 {
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-2 {
+        height: 500px;
+    }
+    .privacy-container-1 .tab-pane {
+        width: 290px;
+    }
+    .privacy-container-1 .tab-pane h3,
+    .privacy-container-1 .tab-pane h4,
+    .privacy-container-1 .tab-pane p {
+        position: relative;
+        right: 50px;
+    }
+    .privacy-mail-link {
+        font-size: 83%;
+    }
+    .footer-style .nav.links {
+        display: block;
+        position: relative;
+        left: 1px;
+    }
+    p.small {
+        position: relative;
+        left: 1px;
+    }
+    .footer-style img {
+        position: relative;
+        left: 1px;
+    }
+    button.navbar-toggler {
+        position: relative;
+        right: 0.5%;
+    }
+    .nav.nav-styles {
+        position: relative;
+        right: 0.3%;
+        width: 290px;
+        z-index: 999999999999999999999999999999;
+    }
+    .services-container-3 .col-md-3 p {
+        position: relative;
+        right: 15px;
+    }
+    .services-container-5 .col-sm-6.col-lg-3.mb-7.mb-lg-4 .u-stats-v1__content  {
+        position: relative;
+        right: 5%;
+    }
+    .about-block-container-2 div.col-md-6 .about-fix-credit button.learn-more-btn.btn.btn-lg {
+        position: relative;
+        left: -9px;
+        width: 250px;
+        font-size: 13px;
+    }
+    .services-container-2 {
+        width: 100%;
+        height: 400px;
+    }
+    .services-container-2 div.ipad {
+        width: 90% !important;
+        padding: 0;
+        position: relative;
+        top: 40px;
+    }
+    .services-container-2 div.ipad ul {
+        font-size: 16px;
+        padding: 0;
+    }
+    .testimonial-container-1 .card .card-img-top {
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 90%;
+        margin: 0 auto;
+        position: relative;
+        right: 1%;
+    }
+    .col-md-4.credentials span {
+        margin-bottom: 10%;
+        font-size: 15px;
+    }
+    .col-md-4.credentials {
+        position: relative;
+        bottom: 30%;
+        margin-bottom: 100px;
+    }
+    .privacy-container-1 .nav-pills {
+        display: inline-block;
+        position: relative;
+        left: 10%;
+    }
+    .privacy-container-1 .col-sm-8.col-md-8.col-lg-8.offset-2.mt-5.mb-5 {
+        position: relative;
+        right: 60px;
+    }
+    .privacy-container-1 .tab-pane p,
+    .privacy-container-1 .tab-pane h3 {
+        position: relative;
+        left: 50.5px;
+    }
+    .privacy-container-1 .nav-pills li a {
+        width: 300px;
+        text-align: center;
+    }
+    .faq-container-1 #basicsAccordion >.card.mb-1 {
+        width: 390px !important;
+        position: relative;
+        right: 30px;
+    }   
+     .faq-container-1 h1 {
+        position: relative;
+        right: 10%;
+        font-size: 30px;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+        display: block !important;
+        text-align: center;
+        position: relative;
+        right: 40%;
+    }
+    /* End Footer */
+    .tab-pane .card .card-img-top {
+        width: 120px;
+        height: 120px;
+    }
+    .footer-style ul.nav li.nav-item a.nav-link i::before {
+        position: relative;
+        right: 9em;
+    }
+
+}
 
 
 @media (max-width: 769px) {
@@ -848,6 +1187,347 @@
 
 }
 
+
+
+@media (max-width: 668px) {
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        height: 100%;
+    }
+    .position-abs > h1 {
+        font-size: 30px;
+    }
+    #content {
+        width: 100%;
+    }
+    p.hero-desktop {
+        display: none;
+    }
+    .position-abs {
+        z-index: 10000;
+    }
+    div.about-fix-credit {
+        position: relative;
+        right: 0px;
+    }
+    div.about-fix-credit p {
+        font-size: 13px;
+    }
+    .about-block-container-2 {
+        height: 600px;
+    }
+    .home-container .position-abs {
+        position: relative;
+        bottom: 30px;
+        right: 100px;
+    }
+    .home-block-container-2 .top-row-text,
+    .home-block-container-1 .top-row-text {
+        position: relative;
+        left: 4%;
+        width: 100%;
+    }
+    .home-block-container-2 .col-md-4 button.learn-more-btn {
+        width: 300px;
+        position: relative;
+        display: block;
+        margin: 0 auto;
+    }
+    .home-block-container-1 .row-of-3 .col-md-4 button.learn-more-btn.btn.btn-lg {
+        width: 300px;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        right: 30%;
+    }
+    .home-block-container-2 .top-row-text h3 {
+        font-size: 30px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-1 .top-row-text h3 {
+        font-size: 30px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-2 .top-row-text p {
+        font-size: 18px;
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-1 .top-row-text p {
+        font-size: 18px;
+        position: relative;
+        right: 40px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div {
+        position: relative;
+        bottom: 100px;
+        width: 200px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4.first div {
+        right: 80px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4.second div {
+        right: 50px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4  {
+        position: relative;
+        left: 100px;
+        margin: 0 20px 0 0;
+    }
+    .home-block-container-1 .row-of-3 {
+        position: relative;
+        right: 40px;
+        width: 600px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div {
+        position: relative;
+        width: 200px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.first div {
+        right: 150px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.second div {
+        right: 120px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4.third div {
+        right: 80px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-clock {
+        position: relative;
+        right: 105px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-trash {
+        position: relative;
+        right: 90px;
+    }
+    .home-block-container-1 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-badge-check {
+        position: relative;
+        right: 55px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i {
+        position: relative;
+        bottom: 100px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-toolbox {
+        position: relative;
+        right: 45px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-mobile-alt,
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-desktop-alt {
+        position: relative;
+        right: 15px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 i.far.fa-money-bill {
+        position: relative;
+        left: 10px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div p {
+        font-size: 14px;
+    }
+    .home-block-container-2 .row-of-3 .col-sm-4.col-md-4.col-lg-4 div h4 {
+        font-size: 18px;
+    }
+    .home-block-container-1 .row-of-3 .col-md-4.mt-5.mb-5 div p {
+        font-size: 14px;
+    }
+    .about-block-container-1 div.col-sm-8.col-md-8.col-lg-8.offset-2.mt-5.mb-5.text-center {
+        position: relative;
+        right: 7%;
+    }
+    .about-block-container-3  img.card-img-top {
+        position: relative;
+        left: 1%;
+        padding-top: 20px;
+    }
+    .about-block-container-3 div.col-sm-6.col-md-6.col-lg-6.mt-5.mb-5 .card.owners {
+        position: relative;
+        left: 1%;
+    }
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center  h1,
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center p {
+        position: relative;
+        right: 15%;
+    }
+    .home-container .position-abs div,
+    .about-container .position-abs div {
+        position: relative;
+        left: 150px;
+    }
+    .about-container .position-abs {
+        position: relative;
+        right: 100px;
+        bottom: 50px;
+    }
+    .about-block-container-1 .row .col-sm-12.col-md-8.col-lg-8.offset-2.text-center {
+        width: 100%;
+    }
+    .contact-container .position-abs div,
+    .location-container .position-abs div,
+    .resources-container .position-abs div,
+    .services-container .position-abs div,
+    .about-container .position-abs div,
+    .home-container .position-abs div,
+    .privacy-container .position-abs div {
+        width: 390px !important;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .services-container .position-abs div {
+        position: relative;
+        left: 30%;
+    }
+    .services-container-1 #pricingMonthly .u-pricing-v1 {
+        width: 350px;
+        margin: 0 auto;
+        position: relative;
+        right: 10px;
+    }
+    .services-container-3 .col-md-3 {
+        width: 390px;
+    }
+    .services-container-3 h3 {
+        position: relative;
+        right: 10px;
+    }
+    .home-block-container-2 {
+        height: 500px;
+    }
+    .privacy-container-1 .tab-pane {
+        width: 290px;
+    }
+    .privacy-container-1 .tab-pane h3,
+    .privacy-container-1 .tab-pane h4,
+    .privacy-container-1 .tab-pane p {
+        position: relative;
+        right: 50px;
+    }
+    .privacy-mail-link {
+        font-size: 83%;
+    }
+    .footer-style .nav.links {
+        display: block;
+        position: relative;
+        left: 1px;
+    }
+    p.small {
+        position: relative;
+        left: 1px;
+    }
+    .footer-style img {
+        position: relative;
+        left: 1px;
+    }
+    button.navbar-toggler {
+        position: relative;
+        right: 0.5%;
+    }
+    .nav.nav-styles {
+        position: relative;
+        right: 0.3%;
+        width: 290px;
+        z-index: 999999999999999999999999999999;
+    }
+    .services-container-3 .col-md-3 p {
+        position: relative;
+        right: 15px;
+    }
+    .services-container-5 .col-sm-6.col-lg-3.mb-7.mb-lg-4 .u-stats-v1__content  {
+        position: relative;
+        right: 5%;
+    }
+    .about-block-container-2 div.col-md-6 .about-fix-credit button.learn-more-btn.btn.btn-lg {
+        position: relative;
+        left: -9px;
+        width: 250px;
+        font-size: 13px;
+    }
+    .services-container-2 {
+        width: 100%;
+        height: 400px;
+    }
+    .services-container-2 div.ipad {
+        width: 90% !important;
+        padding: 0;
+        position: relative;
+        top: 40px;
+    }
+    .services-container-2 div.ipad ul {
+        font-size: 16px;
+        padding: 0;
+    }
+    .testimonial-container-1 .card .card-img-top {
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    /* Contact Page */
+    form.js-validate {
+        width: 90%;
+        margin: 0 auto;
+        position: relative;
+        right: 1%;
+    }
+    .col-md-4.credentials span {
+        margin-bottom: 10%;
+        font-size: 15px;
+    }
+    .col-md-4.credentials {
+        position: relative;
+        bottom: 30%;
+        margin-bottom: 100px;
+    }
+    .privacy-container-1 .nav-pills {
+        display: inline-block;
+        position: relative;
+        left: 10%;
+    }
+    .privacy-container-1 .col-sm-8.col-md-8.col-lg-8.offset-2.mt-5.mb-5 {
+        position: relative;
+        right: 60px;
+    }
+    .privacy-container-1 .tab-pane p,
+    .privacy-container-1 .tab-pane h3 {
+        position: relative;
+        left: 50.5px;
+    }
+    .privacy-container-1 .nav-pills li a {
+        width: 300px;
+        text-align: center;
+    }
+    .faq-container-1 #basicsAccordion >.card.mb-1 {
+        width: 390px !important;
+        position: relative;
+        right: 30px;
+    }   
+     .faq-container-1 h1 {
+        position: relative;
+        right: 10%;
+        font-size: 30px;
+    }
+    /* End Contact */
+    /* Footer */
+    ul.list-inline li.list-inline-item {
+        display: block !important;
+        text-align: center;
+        position: relative;
+        right: 40%;
+    }
+    /* End Footer */
+    .tab-pane .card .card-img-top {
+        width: 120px;
+        height: 120px;
+    }
+    .footer-style ul.nav li.nav-item a.nav-link i::before {
+        position: relative;
+        right: 9em;
+    }
+
+}
 
 
 
