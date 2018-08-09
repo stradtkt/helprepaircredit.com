@@ -1,0 +1,9 @@
+@media screen and (max-width: 1025px) {
+    .footer-style .nav.links {
+        display: block;
+    }
+    .footer-style .nav li a i::before {
+        position: relative;
+        right: 4px;
+    }
+}

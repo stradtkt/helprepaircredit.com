@@ -1,3 +1,12 @@
+@import url("@1441.css")  only screen and (max-width: 1441px);
+@import url("@1025.css")  only screen and (max-width: 1025px);
+@import url("@824.css") only screen and (max-width: 824px);
+@import url("@769.css")  only screen and (max-width: 769px);
+@import url("@737.css")  only screen and (max-width: 737px);
+@import url("@668.css")  only screen and (max-width: 668px);
+@import url("@426.css")  only screen and (max-width: 426px);
+@import url("@376.css")  only screen and (max-width: 376px);
+@import url("@321.css")  only screen and (max-width: 321px);
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 
 
@@ -53,10 +62,6 @@ button.navbar-toggler {
     background: -webkit-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
     background: -moz-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
     background: -o-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
-}
-.position-abs {
-    position: absolute;
-    width: 100%;
 }
 .position-abs div p,
 .position-abs div h3 {

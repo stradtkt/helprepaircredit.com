@@ -1,0 +1,36 @@
+@media screen and (max-width: 769px) {
+    #content .home-block-container-2 div div.row-of-3,
+    #content .home-block-container-1 div div.row-of-3 {
+        display: none;
+    }
+    .about-container .position-abs,
+    .home-container .position-abs {
+        position: relative;
+        left: 0px;
+    }
+    .home-block-container-2 {
+        height: 100%;
+    }
+    .home-block-container-2 button.learn-more-btn {
+        position: relative;
+        left: -50px;
+        top: 1px;
+    }
+    .home-block-container-1 button.learn-more-btn {
+        position: relative;
+        left: -30px;
+        top: 1px;
+    }
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center p {
+        position: relative;
+        left: 1px;
+    }
+    .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center h1 {
+        position: relative;
+        left: 1px;
+    }
+    .services-container-3 .col-sm-4.col-md-4.col-lg-4.text-center {
+        position: relative;
+        right: 35px;
+    }
+}

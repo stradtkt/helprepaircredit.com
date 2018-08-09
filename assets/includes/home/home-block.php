@@ -6,22 +6,22 @@
                 <p class="text-center">The main goal for us is to get you credit score raised as quick as possible.  With excellent customer service you will be happy in the end.</p>
             </div>
         </div>
-    <div class="row text-center mt-5 mb-5 row-of-3">
-        <div class="col-sm-4 col-md-4 col-lg-4 first">
+    <div class="row text-center row-of-3">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 first">
         <p><i class="far fa-clock"></i></p>
         <div>
             <p>6 Months</p>
             <p>Average Months of Serive</p>
         </div>
         </div>
-        <div class="col-sm-4 col-md-4 col-lg-4 second">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 second">
             <p><i class="far fa-trash"></i></p>
             <div>
                 <p>30% Deletion</p>
                 <p>X amount of days</p>
             </div>
         </div>
-        <div class="col-sm-4 col-md-4 col-lg-4 third">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 third">
             <p><i class="far fa-badge-check"></i></p>
             <div>
                 <p>Dedication</p>
@@ -67,21 +67,21 @@
             </div>
         </div>
     <div class="row text-center mt-5 mb-5 row-of-3 second">
-        <div class="col-sm-4 col-md-4 col-lg-4 first">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 first">
         <p><i class="far fa-toolbox"></i></p>
         <div>
             <h4>Repair Your Past</h4>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque pariatur ab ullam?</p>
         </div>
         </div class="mt-5 mb-5">
-        <div class="col-sm-4 col-md-4 col-lg-4 second">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 second">
             <p><i class="far fa-desktop-alt"></i><i class="far fa-mobile-alt"></i></p>
             <div>
                 <h4>Manage Your Accounts</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio fugiat dicta unde.</p>
             </div>
         </div>
-        <div class="col-sm-4 col-md-4 col-lg-4 third">
+        <div class="col-4 col-sm-4 col-md-4 col-lg-4 third">
             <p><i class="fas fa-money-bill"></i></p>
             <div>
                 <h4>Monitor your Present</h4>

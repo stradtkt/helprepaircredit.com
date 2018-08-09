@@ -1,0 +1,9 @@
+@media screen and (max-width: 1441px) {
+    .home-block-container-1 {
+        margin: 20px 0;
+    }
+    .home-block-container-1 button.learn-more-btn {
+        position: relative;
+        top: 20px;
+    }
+}

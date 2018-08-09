@@ -198,52 +198,46 @@
             </div>
         </div>
         <div class="row mt-5">
-        <div class="col-md-1"></div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-alarm-clock"></i></p>
                 <p>We will not hold off on helping you.  Once you say you need us we will be there for you</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-certificate"></i></p>
                 <p>We are state certified in Ohio and Kentucky</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-university"></i></p>
                 <p>We provide auto pay where it is linked directly to your bank account</p>
             </div>
-            <div class="col-md-1"></div>
         </div>
         <div class="row">
-        <div class="col-md-1"></div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-money-check-alt"></i></p>
                 <p>Save money and come to us.  We are the cheapest credit repair firm in the state</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-piggy-bank"></i></p>
                 <p>You will see your bank increase and the same with your credit</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-balance-scale-left"></i></p>
                 <p>When going to other competitors you will see that it is more costly and you see less results</p>
             </div>
-            <div class="col-md-1"></div>
         </div>
         <div class="row mb-5">
-        <div class="col-md-1"></div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-cut"></i></p>
                 <p>We offer a free month at your sixth month of service</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-building"></i></p>
                 <p>Be able to get approved for an appartment finally</p>
             </div>
-            <div class="col-md-3 text-center">
+            <div class="col-sm-4 col-md-4 col-lg-4 text-center">
                 <p><i class="far fa-home"></i></p>
                 <p>Or even get approved for a house that you have been trying to get</p>
             </div>
-            <div class="col-md-1"></div>
         </div>
         </div>
 </section>

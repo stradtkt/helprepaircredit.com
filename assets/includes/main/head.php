@@ -54,7 +54,6 @@ if(isset($_POST['submit'])){
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/theme/assets/css/front.css">
-  <link rel="stylesheet" href="assets/css/@media.css">
   <link rel="stylesheet" href="assets/css/app.css">
 </head>
 <body>
