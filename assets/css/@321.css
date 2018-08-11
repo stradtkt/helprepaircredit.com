@@ -1,4 +1,5 @@
 @media screen and (max-width: 321px) {
+    #privacy-container .position-abs.privacy .privacy,
     #faq-container .position-abs.faq .faq,
     #testimonial-container .position-abs.testimonial .testimonial,
     #contact-container .position-abs.contact .contact,
@@ -27,6 +28,21 @@
         width: 100%;
         margin: 0;
         height: 100%;
+    }
+    .privacy-container-1 .nav.nav-pills {
+        position: relative;
+        left: -55px;
+    }
+    .privacy-container-1 .tab-pane p {
+        width: 300px;
+        position: relative;
+        margin: 0 0 0 70px;
+    }
+    .privacy-container-1 .tab-pane h4,
+    .privacy-container-1 .tab-pane h3 {
+        margin: 0 100px 0 50px;
+        width: 300px;
+        font-size: 100%;
     }
     .footer-style .nav li a i::before {
         position: relative;

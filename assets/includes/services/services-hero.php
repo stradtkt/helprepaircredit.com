@@ -9,10 +9,8 @@
             <div class="services">
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h1 class="text-primary mt-5">Services</h1>
-            <p>
-                    What we do 
-                    
-                <strong class="u-text-animation u-text-animation--typing services"></strong><br>
+            <p>     
+                <strong class="u-text-animation u-text-animation--typing services"></strong>
             </p>
             </div>
             </div>

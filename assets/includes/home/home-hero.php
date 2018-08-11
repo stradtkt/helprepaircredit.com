@@ -10,9 +10,7 @@
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h1 class="text-primary text-bold mt-5">CCRS</h1>
             <p>
-                    Your credit will let you 
                 <strong class="u-text-animation u-text-animation--typing home"></strong><br>
-
             </p>
             </div>
             </div>

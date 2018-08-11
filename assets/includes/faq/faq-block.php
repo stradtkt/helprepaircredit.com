@@ -213,15 +213,13 @@ Yes we are we are liscensed and certified by the state.
                     data-parent="#basicsAccordion">
                 <div class="card-body u-card-body">
                         <ol>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
-                            <li>Put all of the necessary information into the software</li>
+                            <li>First step is contacting us</li>
+                            <li>Free consultation</li>
+                            <li>If you decide to proceed, we will do a quick and easy enrollment into the system</li>
+                            <li>We set you up on an automated ACH debit for payment</li>
+                            <li>Enrollment in credit monitoring</li>
+                            <li>Go over the credit report with the you</li>
+                            <li>Then we start working for you</li>
                         </ol>
                 </div>
                 </div>

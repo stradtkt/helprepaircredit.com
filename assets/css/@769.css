@@ -1,4 +1,15 @@
 @media screen and (max-width: 769px) {
+    #faq-container .position-abs.faq .faq,
+    #testimonial-container .position-abs.testimonial .testimonial,
+    #contact-container .position-abs.contact .contact,
+    #services-container .position-abs.services .services,
+    #about-container .position-abs.about .about,
+    #home-container .position-abs.home .home {
+        position: relative;
+        left: 4px;
+        width: 300px !important;
+        height: 100%;
+    }
     #content .home-block-container-2 div div.row-of-3,
     #content .home-block-container-1 div div.row-of-3 {
         display: none;

@@ -10,7 +10,6 @@
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h3 class="text-primary">Testimonials</h3>
             <p>
-                    What people say about us
                 <strong class="u-text-animation u-text-animation--typing testimonials"></strong>
             </p>
             </div>

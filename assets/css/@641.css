@@ -7,7 +7,6 @@
     #home-container .position-abs.home .home {
         position: relative;
         left: 4px;
-        bottom: 50px;
         width: 300px !important;
         height: 100%;
     }
