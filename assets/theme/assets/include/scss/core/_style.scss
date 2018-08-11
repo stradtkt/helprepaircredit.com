@@ -51,6 +51,7 @@ figure {
 
 svg {
   @include px-to-rem(margin-bottom, -7px);
+  vertical-align: baseline;
 }
 
 /*------------------------------------

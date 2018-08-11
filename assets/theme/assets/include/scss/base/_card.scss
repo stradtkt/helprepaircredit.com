@@ -33,6 +33,28 @@
   }
 }
 
+/* Card Collapse */
+.u-card-collapse {
+  &__heading {
+    cursor: pointer;
+    color: $g-dark;
+
+    &-icon {
+      transition: $g-transition-timing;
+    }
+
+    &:hover {
+      color: $g-primary;
+    }
+  }
+
+  .collapsed {
+    .u-card-collapse__heading-icon {
+      transform: rotate(180deg);
+    }
+  }
+}
+
 // Medium Devices
 @include media-breakpoint-up(md) {
   /* Gutters X */
@@ -43,6 +65,16 @@
     > .card {
       @include px-to-rem(margin-right, 16px);
       @include px-to-rem(margin-left, 16px);
+    }
+  }
+
+  .u-card--gutters-4-md {
+    @include px-to-rem(margin-right, -32px);
+    @include px-to-rem(margin-left, -32px);
+
+    > .card {
+      @include px-to-rem(margin-right, 32px);
+      @include px-to-rem(margin-left, 32px);
     }
   }
 }

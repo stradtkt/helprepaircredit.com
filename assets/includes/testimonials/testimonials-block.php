@@ -14,6 +14,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Excellent Company</h5>
                     <p class="card-text">Very helpful people, there was no extra hasslle.  We would recomend CCRS to anyone that needed help.</p>
+                    <small>~ Susan</small>
                 </div>
             </div>
             </div>
@@ -24,6 +25,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Five Stars!</h5>
                     <p class="card-text">This group helped me and my husband out of financial troubles.  They were very kind and hard working people.</p>
+                    <small>~ Jamie</small>
                 </div>
             </div>
             </div>
@@ -35,6 +37,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Good People</h5>
                     <p class="card-text">CCRS is a good company.  They don't try to hussle like some companies.  In the end I would say that they are the best.</p>
+                    <small>~ Alex</small>
                 </div>
             </div>
             </div>
@@ -46,6 +49,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Wow is all I have to say!</h5>
                     <p class="card-text">CCRS turned my life around for the better. Thank you CCRS.</p>
+                    <small>~ Derek</small>
                 </div>
             </div>
             </div>

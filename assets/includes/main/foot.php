@@ -22,26 +22,7 @@
         </button>
       </div>
       <div class="modal-body text-white">
-          <p class="lead text-white">Send us your information and we will get back to you as soon as possible</p>
-          <small>Your information will be secure and will not be public to anyone</small>
-        <form action="" method="POST">
-            <div class="form-group">
-                <input type="text" name="name" class="form-control" placeholder="Name">
-            </div>
-            <div class="form-group">
-                <input type="number" name="phone" class="form-control" placeholder="Phone">
-            </div>
-            <div class="form-group">
-                <input type="email" name="email" class="form-control" placeholder="Email">
-            </div>
-            <div class="form-group">
-                <input type="text" name="subject" class="form-control" placeholder="Subject">
-            </div>
-            <div class="form-group">
-                <textarea name="msg" class="form-control" cols="30" rows="10" placeholder="Message"></textarea>
-            </div>
-            <input type="submit" value="Submit" class="btn btn-primary btn-block subscribe-submit">
-        </form>
+      <iframe class="webform-frame" name="frame_webform" id="frame_webform" src="https://app.creditrepaircloud.com/weblead/post/NGQ1NDU1Nzg0ZTU0NDUzMDRlNDQ2MzMx/RmlsbCBvdXQgdGhpcyBmb3JtIGZvciBhIGZyZWUgY29uc3VsdGF0aW9u/en" height=700  width=100% style="background:white"  frameborder=0></iframe>
         </div>          
       </div>
     </div>
@@ -259,6 +240,15 @@
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
+          // initialization of slick carousel
+    $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+
+        // initialization of show animations
+        $.HSCore.components.HSShowAnimation.init('.js-animation-link', {
+        afterShow: function() {
+            $('.js-slick-carousel').slick('setPosition');
+        }
+        });
     });
   </script>
 </body>

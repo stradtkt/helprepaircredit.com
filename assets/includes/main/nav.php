@@ -5,7 +5,6 @@
           <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
           <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
           <li class="nav-item"><a href="testimonials.php" class="nav-link">Testimonials</a></li>
-          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
       </ul>
     </div>

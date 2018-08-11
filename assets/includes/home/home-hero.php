@@ -12,7 +12,7 @@
             <p>
                     Your credit will let you 
                 <strong class="u-text-animation u-text-animation--typing home"></strong><br>
-                <p class="hero-desktop">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, animi laboriosam. Consectetur sapiente esse dignissimos voluptatum ad explicabo voluptates possimus quaerat eos officiis? Possimus fugit culpa eos exercitationem sit ratione.</p>
+
             </p>
             </div>
             </div>
@@ -22,12 +22,11 @@
 </section>
 </div>
 
-
-<!-- <div data-remodal-id="modal">
+<div data-remodal-id="modal">
   <button data-remodal-action="close" class="remodal-close"></button>
-  <h1 class="text-white">CCRS</h1>
+  <h1 class="text-white">What Can Complete Credit Repair Services Do For You</h1>
   <p class="remodal-p">
-   So many people are now using credit services to fix thier credit.
+   Are you having credit trouble?  When you are looking for a house or maybe a car don't you want to be sure you will have a high enough credit rating to purchase those items.
   </p>
   <a href="contact.php" class="btn btn-lg remodal-btn">Fix Your Credit</a>
-</div> -->
+</div>

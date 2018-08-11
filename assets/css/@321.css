@@ -1,3 +1,22 @@
 @media screen and (max-width: 321px) {
-    
+    #testimonial-container .position-abs.testimonial .testimonial,
+    #contact-container .position-abs.contact .contact,
+    #services-container .position-abs.services .services,
+    #about-container .position-abs.about .about,
+    #home-container .position-abs.home  {
+        position: relative;
+        left: -20px;
+        width: 300px !important;
+    }
+    .home-block-container-1 .container .row .col-8.col-sm-4.col-md-4.col-lg-4.btn-container .learn-more-btn.btn.btn-lg{
+        position: relative;
+        left: -18%;
+    }
+    .home-block-container-2 .container .row .col-4.col-sm-4.col-md-4.col-lg-4 .learn-more-btn.btn.btn-lg{
+        margin: 0 30% 10% 0;
+    }
+    .footer-style .nav li a i::before {
+        position: relative;
+        left: -195px;
+    }
 }

@@ -6,3 +6,8 @@
 .custombox-lock {
 	overflow: auto;
 }
+
+.u-custombox-no-scroll.custombox-lock {
+  @include px-to-rem(margin-right, 17px); // To avoid page shaking issue
+  overflow: hidden;
+}

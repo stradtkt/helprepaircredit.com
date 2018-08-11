@@ -10,6 +10,10 @@
 	height: 60vh;
 }
 
+.height-100vh {
+	height: 100vh;
+}
+
 .min-height-100vh {
 	min-height: 100vh;
 }
@@ -46,8 +50,19 @@
 	@include px-to-rem(min-height, 620px);
 }
 
+// Small Devices
+@include media-breakpoint-up(sm) {
+	.height-100vh--sm {
+		height: 100vh;
+	}
+}
+
 // Medium Devices
 @include media-breakpoint-up(md) {
+	.height-100vh--md {
+		height: 100vh;
+	}
+
 	.min-height-100vh--md {
 		min-height: 100vh;
 	}
@@ -55,11 +70,22 @@
 
 // Large Devices
 @include media-breakpoint-up(lg) {
+	.height-100vh--lg {
+		height: 100vh;
+	}
+
 	.min-height-auto--lg {
 		min-height: auto;
 	}
 
 	.min-height-100vh--lg {
 		min-height: 100vh;
+	}
+}
+
+// Extra Large Devices
+@include media-breakpoint-up(xl) {
+	.height-100vh--xl {
+		height: 100vh;
 	}
 }

@@ -1,8 +1,75 @@
 @media screen and (max-width: 376px) {
+    #testimonial-container .position-abs.testimonial .testimonial,
+    #contact-container .position-abs.contact .contact,
+    #services-container .position-abs.services .services,
+    #about-container .position-abs.about .about,
     #home-container .position-abs.home .home {
         position: relative;
-        left: 7px;
+        left: 4px;
         width: 300px !important;
+    }
+    .home-block-container-1 button.learn-more-btn {
+        display: none;
+    }
+    .home-block-container-2 button.learn-more-btn {
+        position: relative;
+        left: -100px;
+    }
+    .home-block-container-1 .top-row-text p {
+        position: relative;
+        right: 20px;
+        font-size: 15px;
+    }
+    .home-block-container-1 .top-row-text h3 {
+        position: relative;
+        right: 17px;
+        font-size: 20px;
+    }
+    .home-block-container-2 .top-row-text h3 {
+        position: relative;
+        right: 20px;
+        font-size: 20px;
+    }
+    .home-block-container-2 .top-row-text p {
+        position: relative;
+        right: 20px;
+        font-size: 15px;
+    }
+    .about-block-container-1 > .container > .row > .col-sm-12.col-md-8.col-lg-8.offset-2.text-center {
+        position: relative;
+        right: 35px;
+    }
+    div.about-fix-credit {
+        position: relative;
+        left:0px;
+        right: 20px;
+        width: 300px !important;
+    }
+    #pricingMonthly .col-sm-6 ,
+    #pricingMonthly .col-sm-6.mb-7.mb-sm-0 {
+        position: relative;
+        left: 5px;
+    }
+    .services-container-3 .col-sm-4.col-md-4.col-lg-4.text-center {
+        margin: 0 0 0 70px;
+        position: relative;
+
+    }
+    .services-container-3 h3 {
+        font-size: 20px;
+    }
+    .services-container-3 .col-sm-4.col-md-4.col-lg-4.text-center p {
+        font-size: 16px;
+    }
+    .plans {
+        position: relative;
+        left: 22px;
+        padding: 0 0 20px 0;
+    }
+    .plans.first {
+        width: 105%;
+        margin: 0;
+        height: 100%;
     }
     .footer-style .nav.links li a {
         position: relative;

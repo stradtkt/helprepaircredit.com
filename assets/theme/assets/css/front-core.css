@@ -50,6 +50,7 @@ figure {
 
 svg {
   margin-bottom: -0.4375rem;
+  vertical-align: baseline;
 }
 
 /*------------------------------------

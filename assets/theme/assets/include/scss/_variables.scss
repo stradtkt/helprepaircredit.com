@@ -273,10 +273,16 @@ $g-pagination-border-color:                                 $g-secondary !defaul
 $g-pagination-hover-bg:                                     rgba(theme-color("primary"), .1) !default;
 $g-pagination-hover-border-color:                           rgba(theme-color("primary"), .1) !default;
 $g-close-color:                                             $g-dark !default;
+$g-breadcrumb-active-color:                                 $g-paragraph-color !default;
+
+// Z-indexes
+$g-zindex-tooltip:                                          9999 !default;
 
 // Background Colors
+$g-dropdown-divider-bg:                                     $g-light-blue-125 !default;
 $g-tooltip-bg:                                              theme-color("primary") !default;
 $g-card-cap-bg:                                             $g-white !default;
+$g-breadcrumb-bg:                                           transparent !default;
 
 // Border Colors
 $g-form-border-color:                                       $g-gray-100 !default;
@@ -289,6 +295,7 @@ $g-input-color:                                             $g-dark !default;
 $g-input-group-addon-color:                                 $g-gray-200 !default;
 $g-input-group-addon-bg:                                    $g-white !default;
 $g-custom-select-color:                                     $g-input-group-addon-color !default;
+$g-breadcrumb-divider-color:                                $g-light-blue-150 !default;
 
 // Typography
 $g-btn-font-weight:                                         $g-font-weight-semi-bold !default;
@@ -327,6 +334,8 @@ $g-input-btn-paddingX-lg:                                   1.125rem !default;
 $g-custom-select-padding-y:                                 $g-input-btn-paddingY !default;
 $g-custom-select-padding-x:                                 $g-input-btn-paddingX !default;
 $g-card-spacer-y:                                           1rem !default;
+$g-breadcrumb-padding-y:                                    0 !default;
+$g-breadcrumb-padding-x:                                    0 !default;
 
 // Margin Spaces
 $g-pagination-marginX:                                      4px !default;
@@ -364,6 +373,7 @@ $g-bs-btn-active-box-shadow:                                inset 0 3px 5px rgba
 $g-icon-font-size:                                          15px !default;
 $g-icon-font-size-xs:                                       10px !default;
 $g-icon-font-size-sm:                                       13px !default;
+$g-icon-font-size-md:                                       16px !default;
 $g-icon-font-size-lg:                                       28px !default;
 $g-icon-font-size-xl:                                       48px !default;
 
@@ -377,11 +387,13 @@ $g-icon-z-index:                                            1 !default;
 $g-icon-width:                                              34px !default;
 $g-icon-width-xs:                                           24px !default;
 $g-icon-width-sm:                                           30px !default;
+$g-icon-width-md:                                           44px !default;
 $g-icon-width-lg:                                           56px !default;
 $g-icon-width-xl:                                           80px !default;
 $g-icon-height:                                             $g-icon-width !default;
 $g-icon-height-xs:                                          $g-icon-width-xs !default;
 $g-icon-height-sm:                                          $g-icon-width-sm !default;
+$g-icon-height-md:                                          $g-icon-width-md !default;
 $g-icon-height-lg:                                          $g-icon-width-lg !default;
 $g-icon-height-xl:                                          $g-icon-width-xl !default;
 
@@ -398,7 +410,6 @@ $g-icon-transition:                                         $g-transition-timing
 
 // Text Colors
 $g-text:           					       													$g-light-blue-200 !default;
-// $g-text-muted:            																	$g-light-blue-300 !default;
 
 
 
@@ -433,6 +444,7 @@ $g-header-mega-menu-width-v1:                               900px !default;
 $g-header-absolute-top-height:                              50vh !default;
 $g-header-sticky-top-height:                                50vh !default;
 $g-header-sticky-bottom-height:                             50vh !default;
+$g-header-floating-height:                                  50vh !default;
 
 // Font Sizes
 $g-header-nav-link-icon-font-size:             					    10px !default;
@@ -732,6 +744,7 @@ $g-badge-bigger-paddingX:                                   8px 10px !default;
 $g-badge-bigger-paddingX-sm:                                5px 8px !default;
 
 // Borders
+$g-badge-border-width:                                      2px !default;
 $g-badge-border-style:                                      solid !default;
 $g-badge-pill:                                              $g-border-radius-pill !default;
 
@@ -751,7 +764,7 @@ $g-modal-window-margin-offsetX:                             20px !default;
 
 
 
-// Modal Window
+// Table
 // =========================================================
 
 // Background Color

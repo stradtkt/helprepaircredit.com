@@ -10,6 +10,10 @@
   @include px-to-rem(font-size, 14px);
 }
 
+.font-size-20 {
+  @include px-to-rem(font-size, 20px);
+}
+
 .font-size-26 {
   @include px-to-rem(font-size, 26px);
 }

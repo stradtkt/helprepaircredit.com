@@ -33,4 +33,13 @@
         position: relative;
         right: 35px;
     }
+    .plans.first {
+        width: 655px;
+        height: 400px;
+        margin: 0 0 20px 0;
+    }
+    .plans.first li {
+        padding: 0;
+        margin: -5px 0;
+    }
 }

@@ -18,6 +18,14 @@
 	@include border-radius($g-icon-border-radius);
 }
 
+/* Medium */
+.u-icon--md {
+	@include px-to-rem(width, $g-icon-width-md);
+	@include px-to-rem(height, $g-icon-height-md);
+	@include px-to-rem(font-size, $g-icon-font-size-md);
+	@include border-radius($g-icon-border-radius);
+}
+
 /* Large */
 .u-icon--lg {
 	@include px-to-rem(width, $g-icon-width-lg);

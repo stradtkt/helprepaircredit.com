@@ -39,6 +39,20 @@
 	}
 }
 
+/* Air Style */
+.u-list--air {
+	.disabled,
+  &:disabled {
+  	background-color: rgba($g-light-blue-300, .1);
+  }
+
+	.active .u-list__link,
+	.active.u-list__link {
+  	background-color: rgba($g-primary, .1);
+		color: $g-primary;
+	}
+}
+
 /* Light */
 .u-list--light {
 	.u-list__link {

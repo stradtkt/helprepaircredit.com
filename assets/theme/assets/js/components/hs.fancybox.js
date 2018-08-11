@@ -147,7 +147,7 @@
           }
 
           if (overlayBlurBG) {
-            $('body').addClass('g-blur-30');
+            $('body').addClass('u-blur-30');
           }
         },
 
@@ -165,7 +165,7 @@
           }
 
           if (overlayBlurBG) {
-            $('body').removeClass('g-blur-30')
+            $('body').removeClass('u-blur-30')
           }
         }
       }));

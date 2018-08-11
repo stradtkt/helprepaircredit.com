@@ -3,7 +3,6 @@
 //
 
 
-
 // Type
 // ====================================================
 
@@ -168,6 +167,9 @@ $btn-transition:		  																 all $g-input-btn-transition-timing $g-input
 // Drop Down
 // ====================================================
 
+// Background Colors
+$dropdown-divider-bg:                                  $g-dropdown-divider-bg !default;
+
 // Colors
 $dropdown-link-hover-bg:		  												 transparent !default;
 $dropdown-link-active-bg:		  												 transparent !default;
@@ -217,6 +219,9 @@ $pagination-border-width:															 $g-pagination-border-width !default;
 // Background Color
 $tooltip-bg:																					 $g-tooltip-bg !default;
 
+// Z-indexes
+$zindex-tooltip:                                       $g-zindex-tooltip !default;
+
 // Others
 $tooltip-opacity:																			 $g-tooltip-opacity !default;
 
@@ -246,3 +251,17 @@ $table-hover-bg:                                       $g-table-hover-bg !defaul
 
 // Border Colors
 $table-border-color:                                   $g-table-border-color !default;
+
+
+
+// Breadcrumbs
+// ====================================================
+
+// Quote
+$breadcrumb-divider: quote(">");
+
+// Colors
+$breadcrumb-active-color:                              $g-breadcrumb-active-color !default;
+
+// Border Colors
+$breadcrumb-divider-color:                             $g-breadcrumb-divider-color !default;

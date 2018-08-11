@@ -10,3 +10,19 @@
 		}
 	}
 }
+
+.min-width-3 {
+  @include px-to-rem(min-width, 16px !important);
+}
+
+.min-width-6 {
+  @include px-to-rem(min-width, 40px);
+}
+
+.max-width-6 {
+  @include px-to-rem(max-width, 40px);
+}
+
+.max-width-9 {
+  @include px-to-rem(max-width, 64px);
+}

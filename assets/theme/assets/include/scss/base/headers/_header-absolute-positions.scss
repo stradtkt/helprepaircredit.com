@@ -66,7 +66,9 @@
 
 // Long list of links, can lead to a bug, since the header can not calculate the height when.
 // For this reason, max-height is given to avoid header disappearing issues on collapse.
-.u-header--abs-top__inner {
+.u-header--abs-top__inner,
+.u-header--abs-bottom__inner,
+.u-header--abs-top-2nd-screen__inner {
   max-height: $g-header-absolute-top-height;
 
   &.mCS_destroyed {
@@ -74,7 +76,7 @@
   }
 }
 
-[class*="u-header--abs-top"] {
+[class*="u-header--abs"] {
   .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
     margin: 0 24px;
   }

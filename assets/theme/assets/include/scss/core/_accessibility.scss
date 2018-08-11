@@ -78,3 +78,11 @@ button:focus {
     }
   }
 }
+
+.bootstrap-select .dropdown-toggle:focus {
+  @if $g-enable-accessibility {
+    outline: $g-outline;
+  } @else {
+    outline: 0 !important;
+  }
+}

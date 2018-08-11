@@ -6,9 +6,6 @@
   display: flex;
   flex-flow: column nowrap;
   justify-content: flex-end;
+  background-color: $g-light-blue-50;
   @include px-to-rem(height, 200px);
-
-  &__inner {
-    @include border-radius($g-border-radius-pill);
-  }
 }

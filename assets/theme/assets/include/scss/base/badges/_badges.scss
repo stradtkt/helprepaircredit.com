@@ -17,6 +17,7 @@
 
 [class*="u-badge-border"] {
   border-style: $g-badge-border-style;
+  border-width: $g-badge-border-width;
   line-height: ($g-badge-line-height - .3);
 }
 
@@ -44,5 +45,13 @@
     bottom: 0;
     right: 0;
     transform: translate(50%, 50%);
+  }
+
+  &--bottom-right-0 {
+    @include absolute(bottom 0 right 0);
+  }
+
+  &--bottom-left-1 {
+    @include absolute(bottom 4px left 4px);
   }
 }

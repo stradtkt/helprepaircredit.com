@@ -22,7 +22,11 @@
 @each $color, $value in $g-theme-colors {
 	/* #{$color} badge */
   .u-badge-border-#{$color} {
-    @include badge-bordered($value, $value, $value);
+    @if $color == "warning" {
+      @include badge-bordered($value, $value, $g-dark);
+    } @else {
+      @include badge-bordered($value, $value, $g-dark);
+    }
   }
 }
 

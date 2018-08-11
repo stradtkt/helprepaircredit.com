@@ -7,7 +7,7 @@
 @import url("@426.css")  only screen and (max-width: 426px);
 @import url("@376.css")  only screen and (max-width: 376px);
 @import url("@321.css")  only screen and (max-width: 321px);
-@import url('https://fonts.googleapis.com/css?family=Alegreya');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Poppins|Gothic+A1|Slabo+27px|Libre+Franklin|Work+Sans');
 
 
 .u-text-animation.u-text-animation--typing.home {
@@ -58,10 +58,7 @@ button.navbar-toggler {
     -o-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
 }
 .modal-style .modal-content {
-    background: linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
-    background: -webkit-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
-    background: -moz-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
-    background: -o-linear-gradient(120deg, #2A2A95, rgba(100,100,250,1)) !important;
+    background: white;
 }
 .position-abs div p,
 .position-abs div h3 {
@@ -364,27 +361,6 @@ h1.text-primary.display-5.font-size-48--md-down.font-weight-bold {
     width: 400px;
 }
 
-input {
-    box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -webkit-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -moz-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -ms-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -o-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-}
-.input-group-prepend.u-form__prepend {
-    box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -webkit-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -moz-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -ms-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -o-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-}
-textarea {
-    box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -webkit-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -moz-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -ms-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-    -o-box-shadow: 3px 3px 6px rgba(50,50,50,0.5);
-}
 .u-bg-img-hero {
     box-shadow: 3px 3px 6px rgba(50,50,50,1);
 }
@@ -432,9 +408,6 @@ textarea {
 .modal .modal-body form textarea {
     width: 70%;
     margin: 0 auto
-}
-.modal .modal-body {
-    background: url('../theme/assets/svg/flat-icons/subscribe-flat-concept-illustration.svg') 50% 0 repeat fixed;
 }
 
 .pr-lg-4.mb-7 > ul {
@@ -563,10 +536,21 @@ div[data-remodal-id="modal"] {
     color: white;
     font-weight: 800;
 }
+button[data-remodal-action="close"] {
+    color: red;
+} 
 div[data-remodal-id="modal"] a {
  position: relative;
  top: 50px;
+ font-family: 'Work Sans', sans-serif;
 }
+div[data-remodal-id="modal"] a:hover {
+    color: lime;
+    transition: 0.4s ease-in-out;
+   }
+   p.remodal-p {
+    font-family: 'Work Sans', sans-serif;
+   }
 .remodal-btn {
     color: white;
     background: rgba(50,50,250,0.3);
@@ -640,7 +624,7 @@ div.col-md-6.map-info span i {
     height: 30px;
     position: relative;
     bottom: 20px;
-    left: 10%;
+    left: 40px;
 }
 .learn-more-btn span {
     position: relative;
@@ -712,4 +696,69 @@ div.col-md-6.map-info span i {
 }
 .credentials span {
     font-size: 30px;
+}
+.plans  {
+    width: 300px;
+    box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -webkit-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -moz-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -ms-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    -o-box-shadow: 3px 3px 5px rgba(50,50,50,0.5);
+    border: 0.5px solid rgb(200,200,200);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.plans ul li {
+    padding: 10px;
+    position: relative;
+    right: 20px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 700;
+}
+.plans ul li i.fa-badge-check {
+    color: dodgerblue;
+}
+.plans p {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 700;
+}
+.plans hr {
+    position: relative;
+    right: 7%;
+}
+.plans .header {
+    background: linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
+    background: -moz-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
+    background: -webkit-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
+    background: -o-linear-gradient(120deg, rgba(0,0,250,1), rgba(50,50,200,1));
+    border-top-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -moz-border-top-left-radius: 5px;
+    -ms-border-top-left-radius: 5px;
+    -o-border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-top-right-radius: 5px;
+    -ms-border-top-right-radius: 5px;
+    -o-border-top-right-radius: 5px;
+}
+.plans .header h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.services-container-1 {
+    margin: 25px 0;
+}
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Gothic A1', sans-serif;
+    color: rgb(100,100,250);
+}
+.services-container-3 .row div.col-sm-4.col-md-4.col-lg-4 {
+    position: relative;
+    right: 60px;
 }

@@ -52,6 +52,9 @@
 @import "base/buttons/button-sizes";
 @import "base/buttons/button-text";
 
+// Breadcrumb
+@import "base/breadcrumb/breadcrumb";
+
 // Sidebar
 @import "base/sidebar/sidebar";
 @import "base/sidebar/sidebar-account";
@@ -71,6 +74,12 @@
 @import "base/divider/divider-vertical";
 @import "base/divider/divider-vertical-sizes";
 
+// Datatable
+@import "base/datatable/datatable";
+
+// Datepicker
+@import "base/datepicker/datepicker";
+
 // Cubeportfolio
 @import "base/cubeportfolio/cubeportfolio";
 @import "base/cubeportfolio/cubeportfolio-hover-animations";
@@ -86,11 +95,20 @@
 @import "base/forms/form";
 @import "base/forms/form-pill";
 @import "base/forms/form-sizes";
+@import "base/forms/select/select";
 @import "base/forms/states/success-state";
 @import "base/forms/states/error-state";
 @import "base/forms/states/focus-state";
+@import "base/forms/tagsinput/tagsinput";
+@import "base/forms/summernote-editor/summernote-editor";
+@import "base/forms/toggle-state/toggle-state";
+@import "base/forms/checkbox/checkbox-bordered";
 @import "base/forms/checkbox/checkbox-button";
+@import "base/forms/checkbox/checkbox-switch";
+@import "base/forms/file-attachment/file-attachment-btn";
+@import "base/forms/file-attachment/file-attachment-input";
 @import "base/forms/file-attachment/file-attachment-v1";
+@import "base/forms/form-steps/form-steps";
 @import "base/forms/form-modern";
 
 // Google Map
@@ -112,6 +130,7 @@
 // Indicators
 @import "base/indicators/indicator-dots";
 @import "base/indicators/indicator-vertical-dashed";
+@import "base/indicators/indicator-vertical-dashed-modern";
 @import "base/indicators/indicator-steps";
 
 // Label
@@ -138,6 +157,9 @@
 @import "base/modal-window/modal-window-shopping-cart";
 @import "base/modal-window/modal-window-subscribe";
 @import "base/modal-window/modal-window-facebook";
+
+// Nav
+@import "base/nav/nav";
 
 // News Blogs
 @import "base/news-blogs/news-blog-overlay-v1";
@@ -203,9 +225,10 @@
 @import "base/hamburger";
 @import "base/bg-image-hero";
 @import "base/card";
+@import "base/caret";
 @import "base/content-centered";
-@import "base/media-viewer";
 @import "base/media-player";
+@import "base/media-viewer";
 @import "base/sticky-blocks";
 @import "base/video-player";
 @import "base/skippy";
