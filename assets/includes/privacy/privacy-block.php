@@ -1,7 +1,7 @@
 <section class="privacy-container-1">
     <div class="container">
         <div class="row mb-5">
-            <div class="col-sm-8 col-md-8 col-lg-8 offset-2 mt-5 mb-5">
+            <div class="col-sm-12 col-md-12 col-lg-8 offset-2 mt-5 mb-5">
                 
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                 <li class="nav-item">

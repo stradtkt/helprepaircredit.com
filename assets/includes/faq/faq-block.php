@@ -1,10 +1,10 @@
 <section class="faq-container-1">
 <div class="container">
-        <div class="row mt-5 mb-5">
-             <div class="col-sm-10 col-md-10 col-lg-10 offset-1  faq mt-5 mb-5">
+        <div class="row">
+             <div class="col-10 col-sm-10 col-md-10 col-lg-10 offset-1 faq mt-5 mb-5">
                  <h1 class="text-primary text-center">Frequently Asked Question</h1>
              <div id="basicsAccordion">
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingOne">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -29,7 +29,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
   </div>
 
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingTwo">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -54,7 +54,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
   </div>
 
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingThree">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -79,7 +79,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
   </div>
 
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingFour">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -104,7 +104,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
     </div>
   </div>
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingFive">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -134,7 +134,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
   </div>
 
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingSix">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -163,7 +163,7 @@ Yes we are we are liscensed and certified by the state.
     </div>
   </div>
 
-  <div class="card mb-1">
+  <div class="card mb-1 one">
     <div class="card-header u-card-header" id="basicsHeadingSeven">
       <h5 class="mb-0">
         <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -183,12 +183,16 @@ Yes we are we are liscensed and certified by the state.
          aria-labelledby="basicsHeadingSeven"
          data-parent="#basicsAccordion">
       <div class="card-body u-card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            <ul>
+                <li>They will request your credit report from each of the three bureaus – Equifax, Experian, and TransUnion.</li>
+                <li>They will identify negative items on your credit report that can be disputed. If successful, it will increase your creditworthiness.</li>
+                <li>They will use a variety of strategies to try to get negative items removed from your credit report at each credit bureau. This includes disputing the items on the report as well as negotiating with creditors to get the negative records removed.</li>
+            </ul>
             </div>
             </div>
             </div>
 
-            <div class="card mb-1">
+            <div class="card mb-1 one">
                 <div class="card-header u-card-header" id="basicsHeadingEight">
                 <h5 class="mb-0">
                     <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn collapsed p-3"
@@ -208,7 +212,17 @@ Yes we are we are liscensed and certified by the state.
                     aria-labelledby="basicsHeadingEight"
                     data-parent="#basicsAccordion">
                 <div class="card-body u-card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                        <ol>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                            <li>Put all of the necessary information into the software</li>
+                        </ol>
                 </div>
                 </div>
             </div>

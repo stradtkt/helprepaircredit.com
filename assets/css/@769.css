@@ -42,4 +42,22 @@
         padding: 0;
         margin: -5px 0;
     }
+    .faq-container-1 .card {
+        position: relative;
+        left: 100px;
+    }
+    .faq-container-1 h1 {
+        position: relative;
+        left: 10px;
+    }
+    .privacy-container-1 .col-sm-12.col-md-12.col-lg-8.offset-2.mt-5.mb-5 .tab-pane  {
+        width: 700px;
+        position: relative;
+        right: 180px;
+    }
+    .privacy-container-1 .col-sm-12.col-md-12.col-lg-8.offset-2.mt-5.mb-5 .tab-pane h4,
+    .privacy-container-1 .col-sm-12.col-md-12.col-lg-8.offset-2.mt-5.mb-5 .tab-pane h3 {
+        position: relative;
+        left: 9%;
+    }
 }

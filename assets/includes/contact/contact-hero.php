@@ -8,8 +8,8 @@
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h1 class="text-primary mt-5">Contact</h1>
             <p>
-                    Contact us  
-                <strong class="u-text-animation u-text-animation--typing contact"></strong><br>
+                    Contact us <br>
+                <strong class="u-text-animation u-text-animation--typing contact"></strong>
             </p>
             </div>
             </div>

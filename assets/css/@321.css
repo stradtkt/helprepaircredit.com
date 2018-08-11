@@ -1,4 +1,5 @@
 @media screen and (max-width: 321px) {
+    #faq-container .position-abs.faq .faq,
     #testimonial-container .position-abs.testimonial .testimonial,
     #contact-container .position-abs.contact .contact,
     #services-container .position-abs.services .services,
@@ -14,6 +15,18 @@
     }
     .home-block-container-2 .container .row .col-4.col-sm-4.col-md-4.col-lg-4 .learn-more-btn.btn.btn-lg{
         margin: 0 30% 10% 0;
+    }
+    .faq-container-1 .card-body,
+    .faq-container-1 button {
+        width: 300px;
+    }
+    .services-container-3 div.col-sm-4.col-md-4.col-lg-4.text-center {
+        margin: 0 0 0 100px;
+    }
+    .plans.first {
+        width: 100%;
+        margin: 0;
+        height: 100%;
     }
     .footer-style .nav li a i::before {
         position: relative;

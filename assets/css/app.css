@@ -4,8 +4,10 @@
 @import url("@769.css")  only screen and (max-width: 769px);
 @import url("@737.css")  only screen and (max-width: 737px);
 @import url("@668.css")  only screen and (max-width: 668px);
+@import url("@641.css")  only screen and (max-width: 641px);
 @import url("@426.css")  only screen and (max-width: 426px);
 @import url("@376.css")  only screen and (max-width: 376px);
+@import url("@361.css")  only screen and (max-width: 361px);
 @import url("@321.css")  only screen and (max-width: 321px);
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Poppins|Gothic+A1|Slabo+27px|Libre+Franklin|Work+Sans');
 

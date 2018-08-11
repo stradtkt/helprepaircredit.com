@@ -1,0 +1,11 @@
+@media screen and (max-width: 361px) {
+    .plans.first {
+        width: 100%;
+        margin: 0;
+        height: 100%;
+    }
+    .plans {
+        position: relative;
+        left: 27px;
+    }
+}
