@@ -3,12 +3,20 @@
     #testimonial-container .position-abs.testimonial .testimonial,
     #contact-container .position-abs.contact .contact,
     #services-container .position-abs.services .services,
-    #about-container .position-abs.about .about,
     #home-container .position-abs.home .home {
         position: relative;
         left: 4px;
+        bottom: 80px;
         width: 300px !important;
-        height: 100%;
+        height: 80%;
+    }
+    #about-container .position-abs.about .about {
+        position: relative;
+        left: 70px;
+        bottom: 10px;
+    }
+    .u-text-animation.u-text-animation--typing.home {
+        display: none;
     }
     .about-block-container-1 .col-sm-12.col-md-8.col-lg-8.offset-2.text-center.mb-7 {
         position: relative;

@@ -10,7 +10,7 @@
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h1 class="text-primary text-bold mt-5">CCRS</h1>
             <p>
-                <strong class="u-text-animation u-text-animation--typing home"></strong><br>
+                <strong class="u-text-animation u-text-animation--typing home"></strong>
             </p>
             </div>
             </div>

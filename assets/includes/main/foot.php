@@ -146,7 +146,7 @@
   $(document).on('ready', function () {
     // initialization of text animation (typing)
     var typed = new Typed(".u-text-animation.u-text-animation--typing.home", {
-      strings: ["enjoy life again.", "breathe again.", "buy the things you want."],
+      strings: ["Welcome to Complete Credit Repair Services", "Let the experts here help you with all your credit repair needs", "While providing excellent customer service."],
       typeSpeed: 60,
       loop: true,
       backSpeed: 25,

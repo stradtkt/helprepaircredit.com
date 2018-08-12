@@ -10,9 +10,9 @@
             <img class="ccrs-logo" src="assets/img/logo_new_2.png" alt="Logo">
             <h1 class="text-primary mt-5">About</h1>
             <p>
-                    About <br>
-                <strong class="u-text-animation u-text-animation--typing about"></strong><br>
-                            </p>
+                About or company and how we take care of our customers.
+                <!-- <strong class="u-text-animation u-text-animation--typing about"></strong> -->
+            </p>
             </div>
             </div>
       </div>

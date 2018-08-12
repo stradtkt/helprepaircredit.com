@@ -3,12 +3,15 @@
     #faq-container .position-abs.faq .faq,
     #testimonial-container .position-abs.testimonial .testimonial,
     #contact-container .position-abs.contact .contact,
-    #services-container .position-abs.services .services,
-    #about-container .position-abs.about .about,
-    #home-container .position-abs.home .home {
+    #services-container .position-abs.services .services {
         position: relative;
         left: 0px;
         width: 300px !important;
+    }
+    #about-container .position-abs.about .about ,
+    #home-container .position-abs.home .home {
+        position: relative;
+        left: 30px;
     }
     #contact-container .position-abs.contact .contact,
     #services-container .position-abs.services .services {
@@ -60,7 +63,7 @@
         left: 5px;
     }
     .services-container-3 .col-sm-4.col-md-4.col-lg-4.text-center {
-        margin: 0 0 0 70px;
+        margin: 0 0 0 5px;
         position: relative;
 
     }
@@ -77,7 +80,7 @@
     .privacy-container-1 .tab-pane p {
         width: 340px;
         position: relative;
-        margin: 0 0 0 70px;
+        margin: 0 0 0 80px;
     }
     .privacy-container-1 .tab-pane h4,
     .privacy-container-1 .tab-pane h3 {

@@ -6,7 +6,7 @@
         </div>
         <div class="col-md-4 credentials">
             <span></i><a href="tel:5132482600"><i class="far fa-phone"></i>(513) 248-2600</a></span> <br>
-            <span><i class="far fa-home"></i></span> <span>513 Main Street Milford, Ohio</span> <br>
+            <span><i class="far fa-home"></i></span> <span>4030 Mt. Carmel Tobasco Rd. Suite 125 Cincinnati, Ohio 45255 (CMC Building)</span> <br>
             <span><a href="mailto:completecreditrepairservices@gmail.com"><i class="far fa-envelope"></i></a></span>
             <span><a href="https://www.facebook.com/Helprepaircredit/"><i class="fab fa-facebook"></i></a></span>
         </div>
